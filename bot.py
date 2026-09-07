@@ -1,0 +1,126 @@
+#!/usr/bin/env python3
+"""매일 사자성어·속담·관용구를 하나씩 슬랙에 올린다."""
+import hashlib
+import json
+import os
+import sys
+import urllib.request
+from datetime import date, datetime, timedelta, timezone
+
+KST = timezone(timedelta(hours=9))
+DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "daily_ko.json")
+
+# (데이터 키, 라벨, 이모지, 개수)
+DAILY = [
+    ("sajaseongeo", "사자성어", "🀄", 1),
+    ("sokdam", "속담", "🗣️", 1),
+    ("gwanyonggu", "관용구", "💬", 1),
+]
+
+WEEKDAY = "월화수목금토일"
+
+
+def pick(items, kind, day, n=1):
+    """날짜를 시드로 n개를 겹치지 않게 고른다. 같은 날엔 항상 같은 결과."""
+    out, used = [], set()
+    salt = 0
+    while len(out) < n and salt < n + 50:
+        seed = f"{kind}:{day.isoformat()}:{salt}".encode()
+        idx = int(hashlib.sha256(seed).hexdigest(), 16) % len(items)
+        if idx not in used:
+            used.add(idx)
+            out.append(items[idx])
+        salt += 1
+    return out
+
+
+def headline(item):
+    # 원본 데이터에 앞뒤 공백이 섞여 있다. 볼드 마크업 안에 공백이 들어가면 슬랙이 렌더링하지 않는다.
+    head = f"*{item['word'].strip()}*"
+    hanja = (item.get("hanja") or "").strip()
+    if hanja:
+        head += f" ({hanja})"
+    return head
+
+
+def build_blocks(picks, day):
+    blocks = [
+        {
+            "type": "header",
+            "text": {"type": "plain_text", "text": "📚 오늘의 한국어", "emoji": True},
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
+                    "type": "mrkdwn",
+                    "text": f"{day.strftime('%Y년 %m월 %d일')} ({WEEKDAY[day.weekday()]})",
+                }
+            ],
+        },
+        {"type": "divider"},
+    ]
+
+    for label, emoji, item in picks:
+        lines = [f"{emoji}  {label}", headline(item), item["mean"].strip()]
+        if item.get("example"):
+            lines.append(f"> _{item['example'].strip()}_")
+        blocks.append(
+            {"type": "section", "text": {"type": "mrkdwn", "text": "\n".join(lines)}}
+        )
+
+    sources = ["국립국어원 한국어기초사전"]
+    if any(i.get("source") == "namuwiki" for _, _, i in picks):
+        sources.append("나무위키")
+    blocks.append(
+        {
+            "type": "context",
+            "elements": [{"type": "mrkdwn", "text": "출처: " + " · ".join(sources)}],
+        }
+    )
+    return blocks
+
+
+def post(webhook, payload):
+    req = urllib.request.Request(
+        webhook,
+        data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
+        headers={"Content-Type": "application/json; charset=utf-8"},
+    )
+    with urllib.request.urlopen(req, timeout=20) as res:
+        return res.status, res.read().decode()
+
+
+def main():
+    today = date.today() if "--local-date" in sys.argv else datetime.now(KST).date()
+    for arg in sys.argv[1:]:
+        if arg.startswith("--date="):
+            today = date.fromisoformat(arg.split("=", 1)[1])
+
+    with open(DATA, encoding="utf-8") as f:
+        data = json.load(f)
+
+    picks = []
+    for key, label, emoji, n in DAILY:
+        for item in pick(data[key], key, today, n):
+            picks.append((label, emoji, item))
+
+    summary = " · ".join(f"{lab} {it['word'].strip()}" for lab, _, it in picks)
+    payload = {
+        "text": f"📚 오늘의 한국어 — {summary}",  # 알림·미리보기용
+        "blocks": build_blocks(picks, today),
+    }
+
+    webhook = os.environ.get("SLACK_WEBHOOK_URL")
+    if not webhook or "--dry-run" in sys.argv:
+        print(json.dumps(payload, ensure_ascii=False, indent=2))
+        if not webhook:
+            print("\n[SLACK_WEBHOOK_URL 이 없어서 전송하지 않음]", file=sys.stderr)
+        return
+
+    status, body = post(webhook, payload)
+    print(f"slack {status}: {body}")
+
+
+if __name__ == "__main__":
+    main()

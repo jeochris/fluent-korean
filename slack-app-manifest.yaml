@@ -1,0 +1,16 @@
+display_information:
+  name: 오늘의 한국어
+  description: 매일 사자성어·속담·관용구·어려운 단어를 하나씩 올립니다
+  background_color: "#2c2d30"
+features:
+  bot_user:
+    display_name: 오늘의 한국어
+    always_online: false
+oauth_config:
+  scopes:
+    bot:
+      - incoming-webhook
+settings:
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false

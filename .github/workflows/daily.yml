@@ -1,0 +1,19 @@
+name: 오늘의 한국어
+
+on:
+  schedule:
+    # 매일 09:00 KST (= 00:00 UTC). GitHub Actions cron 은 UTC 기준이고 몇 분 밀릴 수 있다.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python bot.py
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
