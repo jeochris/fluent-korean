@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
-"""데이터 정리: 사자성어는 4음절만 남기고, 같은 표제어의 여러 뜻은 한 항목으로 합친다.
+"""데이터 정리.
 
-한국어기초사전은 다의어를 뜻마다 별도 항목으로 담고 있다. 그대로 두면 봇이
-같은 말을 며칠 간격으로 다시 올리는 것처럼 보이므로 표제어 기준으로 합친다.
+1. 위키낱말사전에서 뽑은 사자성어를 합친다 (한국어기초사전에 178개뿐이라 보충).
+2. 사자성어는 네 글자만 남긴다.
+3. 같은 표제어의 여러 뜻은 한 항목으로 합친다. 한국어기초사전은 다의어를 뜻마다
+   별도 항목으로 담고 있어, 그대로 두면 봇이 같은 말을 며칠 간격으로 다시 올리는
+   것처럼 보인다.
 """
 import json
 import os
@@ -35,6 +38,20 @@ def main():
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(root, 'data', 'daily_ko.json')
     data = json.load(open(path, encoding='utf-8'))
+
+    # 출처가 섞이므로 표기를 위해 기존 항목에 출처를 명시한다
+    for key in ('sajaseongeo', 'sokdam', 'gwanyonggu'):
+        for x in data[key]:
+            x.setdefault('source', 'krdict')
+
+    # 위키낱말사전 보충분 병합 (같은 표제어는 한국어기초사전 쪽을 우선한다)
+    extra_path = os.path.join(root, 'data', 'wiktionary_sajaseongeo.json')
+    if os.path.exists(extra_path):
+        have = {x['word'].strip() for x in data['sajaseongeo']}
+        extra = [x for x in json.load(open(extra_path, encoding='utf-8'))
+                 if x['word'].strip() not in have]
+        print(f'위키낱말사전 병합: +{len(extra)}')
+        data['sajaseongeo'] += extra
 
     # 사자성어는 네 글자만
     before = len(data['sajaseongeo'])

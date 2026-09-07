@@ -85,12 +85,20 @@ def build_blocks(picks, day):
             {"type": "section", "text": {"type": "mrkdwn", "text": "\n".join(lines)}}
         )
 
+    # 사자성어는 한국어기초사전과 위키낱말사전이 섞여 있다. 그날 쓴 것만 밝힌다.
+    names = {
+        "krdict": "국립국어원 한국어기초사전 (CC BY-SA 2.0 KR)",
+        "wiktionary": "위키낱말사전 (CC BY-SA 4.0)",
+    }
+    used = []
+    for _, _, item in picks:
+        n = names.get(item.get("source", "krdict"))
+        if n and n not in used:
+            used.append(n)
     blocks.append(
         {
             "type": "context",
-            "elements": [
-                {"type": "mrkdwn", "text": "출처: 국립국어원 한국어기초사전 (CC BY-SA 2.0 KR)"}
-            ],
+            "elements": [{"type": "mrkdwn", "text": "출처: " + " · ".join(used)}],
         }
     )
     return blocks
