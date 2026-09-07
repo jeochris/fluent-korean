@@ -12,7 +12,8 @@
    "mean": "남을 속이기 위해 남의 비위를 맞추거나 상황이 이로운 것처럼 꾸민 말.",
    "hanja": "甘言利說",
    "example": "어머니께서는 감언이설에 능숙한 사람을 조심하라고 하셨다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "거두절미",
@@ -33,7 +34,8 @@
    "mean": "(비유적으로) 개와 원숭이의 사이처럼 서로 사이가 나쁜 관계.",
    "hanja": "犬猿之間",
    "example": "두 나라는 정치적 갈등이 심하여 오랫동안 견원지간이었으나 최근 경제 협력을 계기로 화해 분위기를 조성하고 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "결초보은",
@@ -61,14 +63,16 @@
    "mean": "말 한마디 한마디마다.",
    "example": "나는 구구절절 옳은 말만 하는 형에게 대들 수가 없었다.",
    "hanja": "句句節節",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "구사일생",
    "mean": "죽을 뻔한 상황을 여러 번 넘기고 겨우 살아남.",
    "hanja": "九死一生",
    "example": "삼촌은 암에 걸렸다가 몇 번의 수술 끝에 구사일생으로 완치되었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "구중궁궐",
@@ -82,7 +86,8 @@
    "mean": "부지런하고 돈이나 물건을 아껴 씀.",
    "hanja": "勤儉節約",
    "example": "선생님은 학생들에게 필요한 만큼만 돈을 쓰라며 근검절약 정신을 강조했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "금은보화",
@@ -96,21 +101,24 @@
    "mean": "(비유적으로) 성공하거나 출세하여 고향에 돌아옴.",
    "example": "민준이는 금의환향을 꿈꾸며 고향을 떠났다.",
    "hanja": "錦衣還鄕",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "기상천외",
    "mean": "생각이 쉽게 짐작할 수 없을 정도로 기발하고 엉뚱함.",
    "hanja": "奇想天外",
    "example": "이 영화는 박물관의 전시물이 모두 살아난다는 기상천외의 생각으로 만들어졌다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "기세등등",
    "mean": "자신 있고 당당하며 힘찬 모양.",
    "hanja": "氣勢騰騰",
    "example": "유민이는 엄마가 자기 편을 들자 기세등등 목소리를 높였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "기정사실",
@@ -145,7 +153,8 @@
    "mean": "남자와 여자, 늙은이와 젊은이 모두.",
    "hanja": "男女老少",
    "example": "그 개그맨은 남녀노소 할 것 없이 모두가 좋아한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "노발대발",
@@ -180,7 +189,8 @@
    "mean": "여러 대를 이어서 내려오는 모든 자손.",
    "hanja": "代代孫孫",
    "example": "할머니는 이 고장에서 대대손손으로 살아온 토박이이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "대명천지",
@@ -194,7 +204,8 @@
    "mean": "신문에서 어떤 사건을 특별히 중요한 기사로 알리는 것.",
    "hanja": "大書特筆",
    "example": "국제 회의의 내용이 대서특필로 신문에 실렸다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "대성통곡",
@@ -208,7 +219,8 @@
    "mean": "아내가 남편 없이 혼자 지냄.",
    "hanja": "獨守空房",
    "example": "이모는 이모부와 사별하고 독수공방을 사신 지 벌써 십 년째이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "동문수학",
@@ -222,49 +234,56 @@
    "mean": "동양과 서양, 옛날과 지금을 통틀어 이르는 말.",
    "hanja": "東西古今",
    "example": "동서고금을 막론하고 건축물에는 그 나라의 역사가 숨 쉬고 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "동서남북",
    "mean": "동쪽, 서쪽, 남쪽, 북쪽. 또는 모든 방향이나 모든 곳.",
    "hanja": "東西南北",
    "example": "내 친구는 동서남북 여기저기 안 다녀 본 곳이 없는 여행광이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "막무가내",
    "mean": "지나치게 고집이 세서 남의 말을 듣지 않으려고 함.",
    "hanja": "莫無可奈",
    "example": "매사에 막무가내인 민준이는 늘 자기 뜻대로 일을 추진하려 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "만수무강",
    "mean": "병이나 사고 없이 건강하게 오래 삶.",
    "hanja": "萬壽無疆",
    "example": "여인은 밤마다 멀리 계신 부모님의 만수무강을 빌고 또 빌었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "만신창이",
    "mean": "몸과 마음이 매우 지치고 피곤함.",
    "hanja": "滿身瘡痍",
    "example": "하루 종일 김장을 했더니 저녁이 될 때쯤엔 이미 만신창이였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "망연자실",
    "mean": "정신이 나간 것처럼 멍함.",
    "hanja": "茫然自失",
    "example": "전 재산이 든 가방을 도둑맞은 김 선생은 망연자실 하늘만 바라보고 있었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "망망대해",
    "mean": "아득하게 넓고 큰 바다.",
    "hanja": "茫茫大海",
    "example": "망망대해에는 작은 배 하나만이 외롭게 떠 있었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "목불인견",
@@ -278,21 +297,24 @@
    "mean": "끝이나 다하는 것이 없음.",
    "hanja": "無窮無盡",
    "example": "이 선수는 힘이 무궁무진이라 벌써 몇 년째 천하장사가 자리를 지키고 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "무념무상",
    "mean": "무아지경에 이르러 모든 생각과 고민을 떨침.",
    "hanja": "無念無想",
    "example": "나는 무념무상에 들기 위해 눈을 감고 정신을 집중했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "무병장수",
    "mean": "병 없이 건강하게 오래 삶.",
    "hanja": "無病長壽",
    "example": "그는 부모님의 무병장수를 빌었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "무미건조",
@@ -313,7 +335,8 @@
    "mean": "쓸모없는 사람이나 물건.",
    "hanja": "無用之物",
    "example": "천연덕스럽고 침착한 범인 앞에서는 거짓말 탐지기도 무용지물에 불과했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "무지몽매",
@@ -327,14 +350,16 @@
    "mean": "물음에 아무 대답도 하지 않음.",
    "hanja": "默默不答",
    "example": "김 회장은 기자 회견장에서 곤란한 질문에 묵묵부답으로 일관했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "물심양면",
    "mean": "물질적인 것과 정신적인 것의 두 면.",
    "hanja": "物心兩面",
    "example": "김 사장은 물심양면의 노력 끝에 사업가로 크게 성공했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "미관말직",
@@ -348,35 +373,40 @@
    "mean": "내용은 별로 없이 아름다운 말로 그럴듯하게 꾸민 글귀.",
    "hanja": "美辭麗句",
    "example": "문학적 깊이가 있는 글은 미사여구로 치장하지 않아도 빛나는 법이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "미풍양속",
    "mean": "옛날부터 그 사회에 전해 오는 아름답고 좋은 습관.",
    "hanja": "美風良俗",
    "example": "우리는 외국에 나가서도 우리나라의 미풍양속을 잘 지켜 나갈 필요가 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "박수갈채",
    "mean": "손뼉을 치고 소리를 질러 축하하고 칭찬함.",
    "hanja": "拍手喝采",
    "example": "그 가수는 수많은 청중들의 박수갈채를 받으며 무대 위에 등장했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "박장대소",
    "mean": "손뼉을 치고 소리를 내며 크게 웃음.",
    "hanja": "拍掌大笑",
    "example": "기분이 좋은 지수는 작은 농담에도 박장대소를 하였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "반신반의",
    "mean": "어느 정도 믿기는 하지만 확실히 믿지 못하고 의심함.",
    "hanja": "半信半疑",
    "example": "상대방의 설득에 그는 반신반의의 입장을 보였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "반포지효",
@@ -397,7 +427,8 @@
    "mean": "모든 곳.",
    "hanja": "坊坊曲曲",
    "example": "이번 주말에 전국 방방곡곡에서 다양한 행사가 열릴 예정이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "백년가약",
@@ -411,7 +442,8 @@
    "mean": "부부가 되어 평생을 사이좋게 지내고 행복하게 함께 늙음.",
    "hanja": "百年偕老",
    "example": "신랑과 신부는 가족과 하객들 앞에서 백년해로를 맹세했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "변화무쌍",
@@ -446,7 +478,8 @@
    "mean": "늙지 않고 오래 삶.",
    "example": "옛날 왕들은 자신의 권력을 유지하기 위해 불로장생을 바랐다.",
    "hanja": "不老長生",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "불요불급",
@@ -460,14 +493,16 @@
    "mean": "마음에 들지 않아 못마땅하고 마음에 차지 않아 언짢음.",
    "hanja": "不平不滿",
    "example": "김 대리는 회사에서 있었던 일에 대해 불평불만을 늘어놓았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "비일비재",
    "mean": "어떤 현상이나 일이 한두 번이 아니라 흔하게 자주 있음.",
    "hanja": "非一非再",
    "example": "나는 건망증이 심해 할 일을 잊어버리는 것도 비일비재였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "사리사욕",
@@ -481,56 +516,64 @@
    "mean": "해당되는 모든 일마다.",
    "hanja": "事事件件",
    "example": "유민이는 어머니의 말씀에 사사건건 짜증을 내며 반항했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "산전수전",
    "mean": "세상의 온갖 고생과 어려움을 다 겪음.",
    "hanja": "山戰水戰",
    "example": "나는 산전수전을 겪으며 고생한 끝에 사업가로 큰 성공을 거두었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "삼삼오오",
    "mean": "사람들이 서넛 또는 대여섯 명씩 무리를 지어 다니거나 무슨 일을 함. 또는 그런 모양.",
    "hanja": "三三五五",
    "example": "놀이터에서는 아이들이 삼삼오오 무리를 지어 놀고 있었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "상부상조",
    "mean": "서로서로 도움.",
    "hanja": "相扶相助",
    "example": "옛날에 우리의 농촌 사회는 상부상조를 밑바탕으로 하는 협동 사회였다. ",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "생로병사",
    "mean": "사람이 태어나고 늙고 병들고 죽는 일.",
    "hanja": "生老病死",
    "example": "나이를 먹는다는 것은 생로병사의 과정을 밟는 것이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "세상만사",
    "mean": "세상에서 일어나는 여러 가지 일.",
    "hanja": "世上萬事",
    "example": "나는 요즘 세상만사가 되는 일이 하나도 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "선남선녀",
    "mean": "멋있는 남자와 아름다운 여자.",
    "hanja": "善男善女",
    "example": "일요일의 그 번화가는 멋을 낸 선남선녀들로 가득했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "속수무책",
    "mean": "어찌할 방법이 없어 꼼짝 못 함.",
    "hanja": "束手無策",
    "example": "민준은 이틀 뒤 사기당한 것을 알았으나 속수무책이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "송구영신",
@@ -544,14 +587,16 @@
    "mean": "그때그때의 시간.",
    "hanja": "時時刻刻",
    "example": "갑작스러운 자연 재해가 연이어 발생하자 시시각각 무수한 예측과 전망이 나오고 있다. ",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "시종일관",
    "mean": "처음부터 끝까지 변함없이 똑같이 함.",
    "hanja": "始終一貫",
    "example": "나무 역을 맡은 배우는 시종일관 무대 기둥 뒤에 서 있었다. ",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "신신당부",
@@ -565,14 +610,16 @@
    "mean": "어떤 동기가 있어 지금까지 가졌던 생각이나 마음가짐을 버리고 완전히 달라짐.",
    "hanja": "心機一轉",
    "example": "지수는 새해부터는 새로운 것에 도전하겠다며 심기일전의 뜻을 밝혔다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "심사숙고",
    "mean": "어떤 일에 대해 깊이 생각함.",
    "hanja": "深思熟考",
    "example": "우리는 회장 자리에 어울리는 사람을 뽑기 위해 후보들을 놓고 심사숙고를 계속했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "악전고투",
@@ -600,21 +647,24 @@
    "mean": "매우 사랑하고 소중히 여기는 모양.",
    "hanja": "愛之重之",
    "example": "아버지가 그동안 애지중지 기르시던 난초가 죽어서 상심이 크신 것 같다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "엄동설한",
    "mean": "한겨울의 심한 추위.",
    "hanja": "嚴冬雪寒",
    "example": "그는 한겨울 엄동설한에 집에서 쫓겨나 길에서 얼어 죽을 처지에 놓이게 되었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "연말연시",
    "mean": "한 해의 마지막 시기와 새해가 시작되는 시기.",
    "hanja": "年末年始",
    "example": "그 레스토랑은 연말연시의 예약이 한 달 전에 모두 찼다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "영구불변",
@@ -628,7 +678,8 @@
    "mean": "늘 잊지 못하여.",
    "hanja": "寤寐不忘",
    "example": "그의 말이 오매불망 머릿속을 떠나지 않는다. ",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "오만불손",
@@ -649,21 +700,24 @@
    "mean": "몸 안에 있는 모든 내장.",
    "example": "김 사장은 워낙 술을 좋아해서 항상 오장육부가 뒤틀릴 때까지 술을 마신다.",
    "hanja": "五臟六腑",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "의기소침",
    "mean": "자신감이 줄어들고 기운이 없어짐.",
    "hanja": "意氣銷沈",
    "example": "나는 연이은 사업의 실패로 의기소침에 빠지고 말았다.  ",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "의기투합",
    "mean": "마음이나 뜻이 서로 같아 힘을 모음.",
    "hanja": "意氣投合",
    "example": "점점 지쳐가는 선수들을 향해 주장은 다시 의기투합을 해 함께 승리로 이끌자며 격려했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "왈가왈부",
@@ -684,28 +738,32 @@
    "mean": "복잡하고 어려운 사정.",
    "hanja": "迂餘曲折",
    "example": "우리는 대회를 성공적으로 열기까지 많은 우여곡절을 거쳤다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "우왕좌왕",
    "mean": "어찌할 줄을 모르고 확실하게 결정을 하지 못하는 모양.",
    "hanja": "右往左往",
    "example": "나는 앞으로 무엇을 할지 결정하지 못하고 우왕좌왕 고민하고 있었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "위험천만",
    "mean": "해를 입거나 다칠 가능성이 있어 몹시 안전하지 못함.",
    "hanja": "危險千萬",
    "example": "고장 난 버스는 위험천만인 속도로 멈출 줄 모르고 계속 아래로 내달렸다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "음담패설",
    "mean": "음란하고 야한 성적인 이야기.",
    "example": "상사의 발언은 성희롱에 가까운 음담패설이었다. ",
    "hanja": "淫談悖說",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "유구무언",
@@ -719,21 +777,24 @@
    "mean": "둘도 없이 오직 하나뿐임.",
    "hanja": "唯一無二",
    "example": "그녀는 오로지 자신의 힘으로 황제의 자리에 오른 세계 유일무이의 여성이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "유명무실",
    "mean": "이름만 보기에 번듯하고 실속은 없음.",
    "hanja": "有名無實",
    "example": "갑작스러운 지진으로 고가에 마련한 재난 방지 시스템은 유명무실이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "유야무야",
    "mean": "어떤 일을 확실하게 끝맺지 않고 흐지부지하게 넘김. 또는 그런 상태.",
    "hanja": "有耶無耶",
    "example": "이번 사건은 경찰 조사가 어려워 제대로 밝혀지지 않고 유야무야 끝났다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "은인자중",
@@ -747,7 +808,8 @@
    "mean": "귀ㆍ눈ㆍ입ㆍ코. 또는 귀ㆍ눈ㆍ입ㆍ코를 중심으로 한 얼굴의 생김새.",
    "hanja": "耳目口鼻",
    "example": "내 동생은 이목구비가 반듯하고 잘생겨 인기가 많았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "이실직고",
@@ -761,7 +823,8 @@
    "mean": "마음과 마음으로 서로 뜻이 통함.",
    "hanja": "以心傳心",
    "example": "우리 부부는 말 없이도 이심전심으로 서로 잘 통한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "이역만리",
@@ -803,21 +866,24 @@
    "mean": "사람으로서 예의 있게 행동하지 않음.",
    "hanja": "人事不省",
    "example": "지수는 조금만 화가 나도 인사불성이 되어 싸움을 걸었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "인산인해",
    "mean": "사람이 산과 바다를 이루었다는 뜻으로, 사람이 셀 수 없을 만큼 많이 모인 상태.",
    "hanja": "人山人海",
    "example": "봄꽃 축제를 구경하러 온 사람들로 마을 인근은 인산인해가 되었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "인정사정",
    "mean": "남을 동정하는 따뜻한 마음과 일의 형편이나 이유.",
    "hanja": "人情事情",
    "example": "월세가 밀리자 집주인은 인정사정 없이 사람들을 내쫓았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "인지상정",
@@ -845,21 +911,24 @@
    "mean": "생각, 상태, 성질 등이 서로 통하거나 비슷해짐.",
    "hanja": "一脈相通",
    "example": "나는 지수와 관심사가 일맥상통임을 느꼈다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "일문일답",
    "mean": "한 번 물음에 대해서 한 번 대답함.",
    "hanja": "一問一答",
    "example": "오늘 본 면접은 면접관과의 일문일답 형식으로 진행되었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "일상생활",
    "mean": "특별한 일이 없는 보통 때의 생활.",
    "hanja": "日常生活",
    "example": "아나운서인 내 친구는 일상생활에서 사용하는 언어도 바르다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "일사불란",
@@ -915,21 +984,24 @@
    "mean": "하나의 일이 그 일로 끝나지 않고 더 큰 일로 번지거나 많은 일로 이어짐.",
    "hanja": "一波萬波",
    "example": "작은 불이 일파만파로 번져 나가 산 전체를 태우고 큰 피해를 냈다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "일편단심",
    "mean": "변하지 않는 진실하고 굳은 마음.",
    "hanja": "一片丹心",
    "example": "승규는 첫사랑이었던 아내를 평생 동안 일편단심으로 아끼고 사랑했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "일확천금",
    "mean": "한 번에 바로 천금을 움켜쥔다는 뜻으로, 힘들이지 않고 한 번에 많은 재물을 얻음. 또는 그런 재물.",
    "hanja": "一攫千金",
    "example": "일확천금의 꿈이 산산이 깨졌다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "일희일비",
@@ -950,14 +1022,16 @@
    "mean": "정해진 방식이나 관습에 얽매이지 않고 행동이나 생각이 자유로움.",
    "hanja": "自由奔放",
    "example": "주변 시선을 의식하지 않는 사람들에게서 자유분방의 모습이 보였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "자유자재",
    "mean": "거침없이 자기 마음대로 할 수 있음.",
    "hanja": "自由自在",
    "example": "부상에서 회복된 선수는 몸을 자유자재로 움직일 수 있었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "자초지종",
@@ -992,7 +1066,8 @@
    "mean": "(비유적으로) 번갯불이 번쩍거리는 것과 같이 매우 짧은 시간이나 매우 재빠른 움직임.",
    "hanja": "電光石火",
    "example": "순간 불길한 생각이 전광석화처럼 스치고 지나갔다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "좌불안석",
@@ -1013,7 +1088,8 @@
    "mean": "이리저리 제 마음대로 휘두르거나 다룸.",
    "hanja": "左之右之",
    "example": "지수는 자신의 일을 승규가 좌지우지를 하는 것이 못마땅했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "주마간산",
@@ -1034,7 +1110,8 @@
    "mean": "남을 해치려고 근거 없는 말로 욕하고 속임수를 써서 일을 꾸미는 것.",
    "hanja": "中傷謀略",
    "example": "국민들은 권력을 쟁취하기 위해서 중상모략을 일삼는 정치인들이 한심했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "중언부언",
@@ -1048,21 +1125,24 @@
    "mean": "일 등이 잘 진행되지 못하고 매우 더딤.",
    "hanja": "遲遲不進",
    "example": "올해의 영업 실적은 최근 몇 년과 비교했을 때 지지부진을 면치 못하고 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "차일피일",
    "mean": "약속이나 기한을 조금씩 자꾸 미루는 모양.",
    "hanja": "此日彼日",
    "example": "나는 만나기 싫은 친구와의 약속을 차일피일 미루었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "천신만고",
    "mean": "온갖 어려움을 다 겪으며 고생함.",
    "hanja": "千辛萬苦",
    "example": "우리는 천신만고를 겪으며 망해 가던 가게를 일으켰다.    ",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "천만다행",
@@ -1090,7 +1170,8 @@
    "mean": "세상 사물이 모두 같지 않고 각각 모습과 모양이 다름.",
    "hanja": "千態萬象",
    "example": "똑같은 영화를 봤지만 사람마다 감상평은 천태만상이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "천편일률",
@@ -1104,7 +1185,8 @@
    "mean": "마음이 맑고 깨끗하며 욕심이 없음.",
    "hanja": "淸廉潔白",
    "example": "대통령은 고위 공직자 대상 연설에서 청렴결백을 강조하였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "청산유수",
@@ -1125,7 +1207,8 @@
    "mean": "여럿 가운데서 쓸 만한 것은 쓰고 버릴 것은 버림.",
    "hanja": "取捨選擇",
    "example": "김 씨는 중요한 의견만 취사선택을 해서 상사에게 보고했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "태연자약",
@@ -1153,14 +1236,16 @@
    "mean": "여러 곳으로 날아 흩어짐.",
    "hanja": "風飛雹散",
    "example": "날리던 연이 전봇대에 부딪쳐 풍비박산이 되었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "허송세월",
    "mean": "하는 일 없이 세월을 헛되이 보냄.",
    "hanja": "虛送歲月",
    "example": "민준은 대학을 졸업하고 일 년 넘게 허송세월을 보냈다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "허심탄회",
@@ -1174,14 +1259,16 @@
    "mean": "마음을 기대거나 도움을 받을 곳이 없는 외로운 몸.",
    "hanja": "孑孑單身",
    "example": "승규는 부모님께서 돌아가신 후 혈혈단신으로 혼자 살고 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "형형색색",
    "mean": "모양과 색깔이 서로 다른 여러 가지.",
    "hanja": "形形色色",
    "example": "밤이 되자 형형색색의 불꽃이 하늘을 수놓으며 축제 분위기를 한층 돋우었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "호구지책",
@@ -1237,14 +1324,16 @@
    "mean": "돈이나 물건 등을 마구 쓰는 모양.",
    "hanja": "興淸亡淸",
    "example": "돈이 많은 지수는 흥청망청 사치를 즐겼다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "희희낙락",
    "mean": "매우 기뻐하고 즐거워함.",
    "hanja": "喜喜樂樂",
    "example": "동생은 요즘 겨울 방학을 맞아 신이 나서 희희낙락이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "가담항설",
@@ -1329,7 +1418,8 @@
    "word": "군계일학",
    "mean": "닭의 무리에 있는 한 마리 학. 변변치 못한 여러 사람 가운데 홀로 뛰어난 사람을 두고 하는 말.",
    "source": "wiktionary",
-   "hanja": "群鷄一鶴"
+   "hanja": "群鷄一鶴",
+   "easy": true
   },
   {
    "word": "군신유의",
@@ -1347,13 +1437,15 @@
    "word": "권모술수",
    "mean": "목적 달성을 위해 수단과 방법을 가리지 않는 온갖 술책.",
    "source": "wiktionary",
-   "example": "예문: 그는 권모술수에 능하기로 유명하다."
+   "example": "예문: 그는 권모술수에 능하기로 유명하다.",
+   "easy": true
   },
   {
    "word": "극악무도",
    "mean": "극히 악하고 도리를 어겨 막됨.",
    "source": "wiktionary",
-   "hanja": "極惡無道"
+   "hanja": "極惡無道",
+   "easy": true
   },
   {
    "word": "근묵자흑",
@@ -1412,7 +1504,8 @@
    "word": "다다익선",
    "mean": "많을수록 좋다.",
    "source": "wiktionary",
-   "hanja": "多多益善"
+   "hanja": "多多益善",
+   "easy": true
   },
   {
    "word": "다사다난",
@@ -1429,13 +1522,15 @@
    "word": "동고동락",
    "mean": "고통과 기쁨을 함께 느끼다.",
    "source": "wiktionary",
-   "hanja": "同苦同樂"
+   "hanja": "同苦同樂",
+   "easy": true
   },
   {
    "word": "동문서답",
    "mean": "동쪽이 어디냐 묻는 말에 서쪽을 대답하는 것처럼 어떤 물음에 관계없는 답을 하는 것을 말함.",
    "source": "wiktionary",
-   "hanja": "東問西答"
+   "hanja": "東問西答",
+   "easy": true
   },
   {
    "word": "등고자비",
@@ -1515,7 +1610,8 @@
    "word": "무지막지",
    "mean": "'무지막지하다'의 어근.",
    "source": "wiktionary",
-   "hanja": "無知莫知"
+   "hanja": "無知莫知",
+   "easy": true
   },
   {
    "word": "문일지십",
@@ -1527,7 +1623,8 @@
    "word": "문전박대",
    "mean": "문 앞에서 모질게 대함. 푸대접.",
    "source": "wiktionary",
-   "hanja": "門前薄待"
+   "hanja": "門前薄待",
+   "easy": true
   },
   {
    "word": "미인박명",
@@ -1556,7 +1653,8 @@
    "word": "배은망덕",
    "mean": "다른 사람으로부터 받은 은혜를 고맙게 여기지 않고 잊어버림.",
    "source": "wiktionary",
-   "hanja": "背恩忘德"
+   "hanja": "背恩忘德",
+   "easy": true
   },
   {
    "word": "백골난망",
@@ -1699,7 +1797,8 @@
   {
    "word": "부국강병",
    "mean": "국가를 부유하게 하고 군대를 강화함.",
-   "source": "wiktionary"
+   "source": "wiktionary",
+   "easy": true
   },
   {
    "word": "부부유별",
@@ -1723,7 +1822,8 @@
    "word": "부자유친",
    "mean": "어버이와 자식 사이에는 친함이 있어야 한다.",
    "source": "wiktionary",
-   "hanja": "父子有親"
+   "hanja": "父子有親",
+   "easy": true
   },
   {
    "word": "불언실행",
@@ -1765,7 +1865,8 @@
    "word": "사필귀정",
    "mean": "모든 일은 반드시 바른 길로 돌아간다는 뜻이다.",
    "source": "wiktionary",
-   "hanja": "事必歸正"
+   "hanja": "事必歸正",
+   "easy": true
   },
   {
    "word": "살기등등",
@@ -1777,7 +1878,8 @@
    "word": "살신성인",
    "mean": "자신의 몸을 희생하여 인(仁)을 이룬다.",
    "source": "wiktionary",
-   "hanja": "殺身成仁"
+   "hanja": "殺身成仁",
+   "easy": true
   },
   {
    "word": "삼부지양",
@@ -1807,7 +1909,8 @@
    "word": "새옹지마",
    "mean": "화가 복이 되기도 하고 행이 불행이 되기도 하듯이 삶을 살면서 화와 복이 일정치 않아 앞을 가늠하기 어려움을 이르는 말.",
    "source": "wiktionary",
-   "hanja": "塞翁之馬"
+   "hanja": "塞翁之馬",
+   "easy": true
   },
   {
    "word": "서동부언",
@@ -1819,7 +1922,8 @@
    "word": "선견지명",
    "mean": "앞서 내다보는 견식.",
    "source": "wiktionary",
-   "hanja": "先見之明"
+   "hanja": "先見之明",
+   "easy": true
   },
   {
    "word": "성동격서",
@@ -1858,7 +1962,8 @@
    "word": "신토불이",
    "mean": "몸과 땅은 둘이 아니고 하나라는 뜻으로, 자기가 사는 땅에서 산출한 농산물이 체질에 잘 맞음을 일컫는 말",
    "source": "wiktionary",
-   "hanja": "身土不二"
+   "hanja": "身土不二",
+   "easy": true
   },
   {
    "word": "신호지세",
@@ -1911,7 +2016,8 @@
    "mean": "오 리(약 2km)가 안개 속이다. 무엇이 어떻게 되어 가는지 도무지 알 수가 없다는 속뜻.",
    "source": "wiktionary",
    "hanja": "五里霧中",
-   "example": "약 사러 보낸 아이가 오리무중이다."
+   "example": "약 사러 보낸 아이가 오리무중이다.",
+   "easy": true
   },
   {
    "word": "오월동주",
@@ -1923,7 +2029,8 @@
    "word": "오합지졸",
    "mean": "까마귀 모임같은 병졸. 질서없이 모여든 수많은 사람을 일컫는 말.",
    "source": "wiktionary",
-   "hanja": "烏合之卒"
+   "hanja": "烏合之卒",
+   "easy": true
   },
   {
    "word": "요개부득",
@@ -1975,7 +2082,8 @@
    "mean": "'물처럼 흐르고 벌레처럼 기어 다니는 말'이라는 한자 뜻에서 떠돌아 다니는 근거 없는 이야기라는 속뜻.",
    "source": "wiktionary",
    "hanja": "流言蜚語",
-   "example": "유언비어를 유포하는 행위는 파렴치하다."
+   "example": "유언비어를 유포하는 행위는 파렴치하다.",
+   "easy": true
   },
   {
    "word": "음양상박",
@@ -2006,7 +2114,8 @@
    "word": "일망타진",
    "mean": "\"한 차례 그물을 쳐서 물고기를 다 잡는다\"는 뜻. \"한꺼번에 다 잡음\"을 이르는 말.",
    "source": "wiktionary",
-   "hanja": "一網打盡"
+   "hanja": "一網打盡",
+   "easy": true
   },
   {
    "word": "일비지력",
@@ -2050,40 +2159,46 @@
    "word": "자업자득",
    "mean": "자신이 저지른 일의 결과를 스스로가 받는 것을 이르는 말.",
    "source": "wiktionary",
-   "hanja": "自業自得"
+   "hanja": "自業自得",
+   "easy": true
   },
   {
    "word": "장유유서",
    "mean": "어른과 아이 사이에는 차례와 질서가 있어야 한다.",
    "source": "wiktionary",
-   "hanja": "長幼有序"
+   "hanja": "長幼有序",
+   "easy": true
   },
   {
    "word": "적반하장",
    "mean": "도둑이 도리어 매를 든다는 뜻으로, 잘못한 사람이 아무 잘못도 없는 사람을 나무람을 이르는 말.",
    "source": "wiktionary",
    "hanja": "賊反荷杖",
-   "example": "적반하장도 유분수."
+   "example": "적반하장도 유분수.",
+   "easy": true
   },
   {
    "word": "전대미문",
    "mean": "이제까지 없던 일.",
    "source": "wiktionary",
    "hanja": "前代未聞",
-   "example": "전대미문의 사건이 발생하였다."
+   "example": "전대미문의 사건이 발생하였다.",
+   "easy": true
   },
   {
    "word": "전화위복",
    "mean": "화가 바뀌어 도리어 복이 됨.",
    "source": "wiktionary",
-   "hanja": "轉禍爲福"
+   "hanja": "轉禍爲福",
+   "easy": true
   },
   {
    "word": "절체절명",
    "mean": "몸과 목숨이 끊어짐. 다시 말해 죽을 정도로 사정이 어렵고 힘들거나 또는 처한 상황이 위태로움을 비유하는 한자성어.",
    "source": "wiktionary",
    "hanja": "絶體絶命",
-   "example": "절체절명의 위기에서 좌절하지 않고 일어서다."
+   "example": "절체절명의 위기에서 좌절하지 않고 일어서다.",
+   "easy": true
   },
   {
    "word": "절치부심",
@@ -2095,7 +2210,8 @@
    "word": "점입가경",
    "mean": "들어가면 갈수록 점차 재미가 있다는 뜻.",
    "source": "wiktionary",
-   "hanja": "漸入佳境"
+   "hanja": "漸入佳境",
+   "easy": true
   },
   {
    "word": "정저지와",
@@ -2107,7 +2223,8 @@
    "word": "종횡무진",
    "mean": "이리저리로 누비거나 거침이 없음.",
    "source": "wiktionary",
-   "hanja": "縱橫無盡"
+   "hanja": "縱橫無盡",
+   "easy": true
   },
   {
    "word": "주객일체",
@@ -2138,7 +2255,8 @@
    "word": "죽마고우",
    "mean": "대나무 말을 타고 놀던 오랜 친구. 어릴때부터 가까운 벗을 이르는 말.",
    "source": "wiktionary",
-   "hanja": "竹馬故友"
+   "hanja": "竹馬故友",
+   "easy": true
   },
   {
    "word": "죽장망혜",
@@ -2157,7 +2275,8 @@
    "mean": "푸짐하게 잘 차린 맛있는 음식.",
    "source": "wiktionary",
    "hanja": "珍羞盛饌",
-   "example": "평생 그런 진수성찬은 처음 먹어 보았다."
+   "example": "평생 그런 진수성찬은 처음 먹어 보았다.",
+   "easy": true
   },
   {
    "word": "천고마비",
@@ -2169,7 +2288,8 @@
    "word": "천방지축",
    "mean": "하늘 방향과 땅의 축을 모르는 듯 덤벙이거나 허둥대는 모습.",
    "source": "wiktionary",
-   "hanja": "天方地軸"
+   "hanja": "天方地軸",
+   "easy": true
   },
   {
    "word": "천의무봉",
@@ -2187,13 +2307,15 @@
    "word": "천차만별",
    "mean": "모두 차이가 있고 서로 각각 다르다.",
    "source": "wiktionary",
-   "hanja": "千差萬別"
+   "hanja": "千差萬別",
+   "easy": true
   },
   {
    "word": "천하무적",
    "mean": "세상에 겨룰 만한 적수가 없음.",
    "source": "wiktionary",
-   "hanja": "天下無敵"
+   "hanja": "天下無敵",
+   "easy": true
   },
   {
    "word": "천학비재",
@@ -2205,7 +2327,8 @@
    "word": "춘하추동",
    "mean": "사계절(봄, 여름, 가을, 겨울)을 이르는 한자성어.",
    "source": "wiktionary",
-   "hanja": "春夏秋冬"
+   "hanja": "春夏秋冬",
+   "easy": true
   },
   {
    "word": "타산지석",
@@ -2223,7 +2346,8 @@
    "word": "토사구팽",
    "mean": "토끼가 죽으면 토끼를 잡던 사냥개도 필요 없게 되어 주인에게 삶아 먹히게 된다는 뜻으로, 필요할 때는 쓰고 필요 없으면 야박하게 버리는 상황을 이르는 말.",
    "source": "wiktionary",
-   "hanja": "兎死狗烹"
+   "hanja": "兎死狗烹",
+   "easy": true
   },
   {
    "word": "포학무도",
