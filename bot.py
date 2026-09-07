@@ -3,6 +3,7 @@
 import hashlib
 import json
 import os
+import random
 import sys
 import urllib.request
 from datetime import date, datetime, timedelta, timezone
@@ -19,19 +20,34 @@ DAILY = [
 
 WEEKDAY = "월화수목금토일"
 
+# 순열의 기준일. 이 날짜를 바꾸면 전체 순서가 어긋나므로 건드리지 않는다.
+EPOCH = date(2026, 9, 7)
+
+
+def _permutation(kind, round_no, n):
+    """(종류, 회차) 로 결정되는 0..n-1 의 섞인 순서. 매번 같은 결과가 나온다."""
+    seed = hashlib.sha256(f"{kind}:{round_no}".encode()).digest()
+    order = list(range(n))
+    random.Random(int.from_bytes(seed, "big")).shuffle(order)
+    return order
+
+
+def nth(items, kind, k):
+    """무한 수열의 k번째 항목.
+
+    항목을 매번 새로 뽑는 대신, 섞어둔 순서대로 하나씩 꺼낸다.
+    n개를 다 쓰면 다시 섞어서(회차 +1) 처음부터 돌린다.
+    덕분에 n개짜리 목록은 정확히 n일 동안 중복 없이 간다.
+    """
+    n = len(items)
+    round_no, offset = divmod(k, n)
+    return items[_permutation(kind, round_no, n)[offset]]
+
 
 def pick(items, kind, day, n=1):
-    """날짜를 시드로 n개를 겹치지 않게 고른다. 같은 날엔 항상 같은 결과."""
-    out, used = [], set()
-    salt = 0
-    while len(out) < n and salt < n + 50:
-        seed = f"{kind}:{day.isoformat()}:{salt}".encode()
-        idx = int(hashlib.sha256(seed).hexdigest(), 16) % len(items)
-        if idx not in used:
-            used.add(idx)
-            out.append(items[idx])
-        salt += 1
-    return out
+    """그날 나갈 n개. 같은 날엔 몇 번을 실행하든 같은 결과."""
+    base = (day - EPOCH).days * n
+    return [nth(items, kind, base + i) for i in range(n)]
 
 
 def headline(item):
