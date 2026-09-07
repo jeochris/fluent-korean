@@ -4,3 +4,4 @@ __pycache__/
 .env
 krdict/
 *.zip
+data/wiki_freq.json

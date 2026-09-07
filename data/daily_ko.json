@@ -2272,13 +2272,15 @@
   {
    "word": "첫술에 배부르랴",
    "mean": "어떤 일이든지 한번에 만족할 수는 없다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "초록은 동색",
    "mean": "처지나 부류가 같은 사람들끼리 한 편임.",
    "example": "초록은 동색이라는데 아무래도 친구끼리 더 챙겨주겠지.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "취중에 진담이 나온다",
@@ -2304,7 +2306,8 @@
   {
    "word": "친구 따라 강남 간다",
    "mean": "하고 싶지 않거나 하려고 하지 않은 일을 다른 사람에게 이끌려 자기도 하게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "친구는 옛 친구가 좋고 옷은 새 옷이 좋다",
@@ -2327,13 +2330,15 @@
    "word": "코에 걸면 코걸이 귀에 걸면 귀걸이",
    "mean": "1. 자신에게 유리하게 근거를 아무렇게나 갖다 대는 것을 뜻하는 말. 2. 입장에 따라 다양하게 설명할 수 있는 경우를 뜻하는 말.",
    "example": "법이 엄격하고 정확하지 않으면 코에 걸면 코걸이 귀에 걸면 귀걸이 식으로 해석될 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "콩 심은 데 콩 나고 팥 심은 데 팥 난다",
    "mean": "모든 일에는 원인에 걸맞은 결과가 나타난다.",
    "example": "콩 심은 데 콩 나고 팥 심은 팥 난다는 말처럼 노력을 안 하면 실패하는 게 당연하지요.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "콩으로 메주를 쑨다 하여도 곧이듣지 않는다",
@@ -2367,13 +2372,15 @@
    "word": "티끌 모아 태산",
    "mean": "아무리 작은 것이라도 모이고 모이면 나중에 큰 덩어리가 됨을 뜻하는 말.",
    "example": "티끌 모아 태산이라더니 십 원짜리 모은 것이 십만 원이 넘는다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "팔이 안으로 굽는다",
    "mean": "자신에게 가까운 사람 또는 관계된 일에 유리하게 편드는 것을 이르는 말.",
    "example": "팔은 안으로 굽는다고 며느리보다는 딸이 더 애틋한 게 어머니의 마음이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "팥으로 메주를 쑨대도 곧이듣는다",
@@ -2384,7 +2391,8 @@
    "word": "팥을 심으면 팥이 나오고 콩을 심으면 콩이 나온다",
    "mean": "모든 일에는 원인이 있고 그 원인에 따라 결과가 나타난다.",
    "example": "팥을 심으면 팥이 나오고 콩을 심으면 콩이 나온다고, 그 영감이 마누라를 그렇게 함부로 하더니 늘그막에 버림을 받았더구만.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "팥을 콩이라 해도 곧이듣는다",
@@ -2395,7 +2403,8 @@
   {
    "word": "평안 감사도 저 싫으면 그만이다",
    "mean": "아무리 좋은 일이라도 당사자가 좋아하지 않으면 억지로 시킬 수 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "폭풍 전의 고요",
@@ -2406,54 +2415,64 @@
    "word": "품 안의 자식",
    "mean": "자식이 어렸을 때는 부모의 뜻을 따르지만 자라서는 제 뜻대로 행동하려 한다는 말.",
    "example": "품안의 자식인 줄만 알았던 딸이 미국으로 떠난다는 생각에 자꾸만 쓸쓸해졌다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "핑계 없는 무덤이 없다",
    "mean": "아무리 큰 잘못을 저지른 사람도 그것을 변명하고 이유를 붙일 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "하나를 듣고[들으면] 열을 안다",
    "mean": "한 마디 말을 듣고도 여러 가지 사실을 알 정도로 매우 똑똑하다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "하나를 보고[보면] 열[백]을 안다",
    "mean": "일부만 보고도 이를 미루어 전체를 알 수 있다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "하나만 알고 둘을 모른다",
    "mean": "어떠한 일이나 사물의 한 면만 보고 전체의 모습을 두루 보지 못한다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "하늘 보고 침 뱉기",
    "mean": "결국 자기에게 해가 되는 행동을 함.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "하늘은 스스로 돕는 자를 돕는다",
    "mean": "하늘은 스스로 노력하는 사람을 성공하게 만든다는 뜻으로 어떤 일을 이루기 위해서는 자신의 노력이 중요하다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "하늘을 보아야 별을 따다",
    "mean": "어떠한 결과를 얻으려면 그에 어울리는 노력과 준비, 기회나 조건이 필요하다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "하늘의 별 따기",
    "mean": "무엇을 얻거나 이루어내기가 매우 어렵다는 말.",
    "example": "이곳의 집값은 매우 비싸 서민들이 돈을 모아 여기에 집을 사기란 하늘의 별따기였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "하늘이 무너져도 솟아날 구멍이 있다",
    "mean": "아무리 힘들고 어려운 일이 생겨도 해결할 방법은 있기 마련이라는 말.",
    "example": "하늘이 무너져도 솟아날 구멍이 있듯이 사업에 실패하고 방황하던 그에게 큰돈을 벌 기회가 생겼다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "하루 세 끼 밥 먹듯",
@@ -2471,7 +2490,8 @@
    "word": "하룻강아지 범 무서운 줄 모른다",
    "mean": "철없이 함부로 덤비다.",
    "example": "상사에게 말대꾸를 한 신입 사원을 보고 사람들은 하룻강아지 범 무서운 줄 모른다고 비난했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "한 계단씩 밟아 올라가다",
@@ -2481,7 +2501,8 @@
   {
    "word": "한 귀로 듣고 한 귀로 흘린다",
    "mean": "다른 사람의 말을 대충 듣는다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "한 번 속지 두 번 안 속는다",
@@ -2507,7 +2528,8 @@
   {
    "word": "한 입으로 두말하기",
    "mean": "한 가지 일에 대해 말을 이렇게 하였다 저렇게 하였다 한다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "한 치 앞이 어둠",
@@ -2518,12 +2540,14 @@
    "word": "한강에 돌 던지기",
    "mean": "아무리 애를 써도 어떤 효과나 영향도 바랄 수 없는 일을 뜻하는 말.",
    "example": "나 혼자 무리하여 일을 다 하려고 해도 한강에 돌 던지기였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "한번 엎지른 물은 다시 주워 담지 못한다",
    "mean": "일단 잘못을 저질렀으면 다시 회복하기 어렵다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "허울 좋은 과부",
@@ -2544,22 +2568,26 @@
   {
    "word": "호랑이 굴에 가야 호랑이 새끼를 잡는다",
    "mean": "원하는 결과를 얻으려면 그에 마땅한 일을 해야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "호랑이 담배 먹을[피울] 적",
    "mean": "아주 오래 전.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "호랑이 없는 골에 토끼가 왕 노릇 한다",
    "mean": "뛰어난 사람이 없는 곳에서 보잘 것 없는 사람이 세력을 얻으려 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "호랑이도 제 말 하면 온다",
    "mean": "다른 사람에 관해 이야기를 하는데 공교롭게 그 사람이 나타나는 경우를 이르는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "호랑이를 그리려다가 강아지[고양이]를 그린다",
@@ -2574,18 +2602,21 @@
   {
    "word": "호랑이에게 물려 가도 정신만 차리면 산다",
    "mean": "아무리 위험한 경우라도 정신만 똑똑히 차리면 위기를 벗어날 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "호미로 막을 것을 가래로 막는다",
    "mean": "일이 작을 때 미리 처리하지 않고 그대로 내버려 두는 바람에 나중에 큰 힘을 들이게 되었다.",
    "example": "문제에 신속히 대처하지 못한 결과로 사태는 호미로 막을 것을 가래로 막게 되었다. ",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "호박이 넝쿨째로 굴러떨어졌다",
    "mean": "뜻밖에 좋은 물건을 얻거나 행운을 만났다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "호박꽃도 꽃이냐",
@@ -2595,13 +2626,15 @@
   {
    "word": "혹 떼러 갔다 혹 붙여 온다",
    "mean": "자기의 부담을 덜려고 하다가 다른 일까지도 맡게 된 경우를 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "황소 뒷걸음치다가 쥐 잡는다",
    "mean": "어쩌다 우연히 이루거나 알아맞힌다는 말.",
    "example": "황소 뒷걸음치다가 쥐 잡는다더니 장롱 밑에 들어간 볼펜을 찾다가 만 원짜리 지폐 한 장을 발견했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "효부 없는 효자 없다",
@@ -2618,12 +2651,14 @@
    "word": "흐르는 물은 썩지 않는다",
    "mean": "고인 물은 썩지만 흐르는 물은 썩지 않는다는 뜻으로, 사람은 늘 열심히 노력해야 뒤떨어지지 아니한다는 말.",
    "example": "흐르는 물은 썩지 않는다는 말이 있듯이 그저 지금에만 만족하고 살면 결국 남들에게 뒤쳐지게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "흥정은 붙이고 싸움은 말리랬다",
    "mean": "좋은 일은 도와주고 나쁜 일은 못 하게 하라는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "가난이 죄다",
@@ -2639,7 +2674,8 @@
   {
    "word": "가는 말이 고와야 오는 말이 곱다",
    "mean": "자기가 다른 사람에게 말이나 행동을 좋게 해야 다른 사람도 자기에게 좋게 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "가는 정이 있어야 오는 정이 있다",
@@ -2649,17 +2685,20 @@
   {
    "word": "가는 날이 장날",
    "mean": "어떤 일을 하려고 하는데 마침 그때 생각하지도 않은 일이 생긴다는 뜻.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "갈수록 태산",
    "mean": "갈수록 더 어려운 상황이 됨.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "가랑비에 옷 젖는 줄 모른다",
    "mean": "작은 일이라도 그것이 계속되면 큰일이 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "가랑잎에 불붙듯",
@@ -2677,18 +2716,21 @@
    "word": "가뭄에 콩 나듯 (한다)",
    "mean": "아주 드물게 가끔 나타나다.",
    "example": "요즘에는 출산율이 낮아져서 아기 있는 집이 가뭄에 콩 나듯 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "가재는 게 편",
    "mean": "사람은 서로 비슷한 처지에 있거나 가까운 사람의 편을 든다.",
    "example": "가재는 게 편이라고 사장은 같은 고향 출신 직원들을 편애했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "가지 많은 나무에 바람 잘 날이 없다",
    "mean": "자식이 많은 부모에게는 걱정이 항상 많다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "간에 붙었다 쓸개에 붙었다 하다",
@@ -2709,7 +2751,8 @@
   {
    "word": "같은 값이면 다홍치마",
    "mean": "값이나 조건이 같으면 품질이 좋고 보기에 좋은 것을 택한다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "개같이 벌어서 정승같이 쓴다",
@@ -2764,12 +2807,14 @@
   {
    "word": "개구리 올챙이 적 생각 못 한다",
    "mean": "지위나 형편이 과거에 비하여 나아진 사람이 과거의 어려움을 기억하지 아니하고 자신이 원래부터 잘난 듯이 뽐내다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "개똥도 약에 쓰려면 없다",
    "mean": "평소에 흔하던 것도 막상 쓰려고 하면 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "개똥도 약에 쓴다",
@@ -2780,12 +2825,14 @@
    "word": "개밥에 도토리",
    "mean": "따돌림을 받아서 사람들 사이에 끼지 못하는 사람을 뜻하는 말.",
    "example": "김 과장은 개밥에 도토리처럼 회사에서 따돌림을 당했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "개천에서 용 난다",
    "mean": "어려운 환경에서 훌륭한 인물이 나오다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "거짓말하고 뺨 맞는 것보다 낫다",
@@ -2822,7 +2869,8 @@
   {
    "word": "겉 다르고 속 다르다",
    "mean": "겉으로 드러내는 행동이나 생각이 마음 속 생각과 다르다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "겉과 속이 다르다",
@@ -2834,7 +2882,8 @@
    "word": "겨 묻은 개가 똥 묻은 개를 나무란다[흉본다]",
    "mean": "결점이 있기는 마찬가지인데 조금 덜한 사람이 더한 사람을 흉보는 경우를 비꼬아 이르는 말.",
    "example": "겨 묻은 개가 똥 묻은 개 나무란다고 도둑놈이 살인범은 당장 잡아 죽여야 한다고 말하고 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "경주 돌이면 다 옥석인가",
@@ -2846,7 +2895,8 @@
    "word": "계란으로 바위 치기",
    "mean": "매우 어려운 상황이거나 너무 강한 상대여서 맞서 싸워도 도저히 이길 수 없는 경우.",
    "example": "군사력으로 모든 권력을 장악한 정부에 반대하는 시위를 해 봤자 계란으로 바위치기일 것이라는 의견이 많다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "고기는 씹어야 맛을 안다",
@@ -2871,13 +2921,15 @@
   {
    "word": "고래 싸움에 새우 등 터진다",
    "mean": "강한 자들이 싸우는 틈에서 아무 상관없는 약한 자가 해를 입는다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "고생 끝에 낙이 온다",
    "mean": "어려운 일이나 고된 일을 겪은 뒤에는 반드시 즐겁고 좋은 일이 생긴다.",
    "example": "고생 끝에 낙이 온다고 민준이는 재수를 하면서 공부에 매진한 결과 의대에 합격했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "고생을 밥 먹듯 하다",
@@ -2905,7 +2957,8 @@
   {
    "word": "고양이 목에 방울 달기",
    "mean": "실행하기 어려운 것을 헛되게 의논함을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "고양이 세수하듯",
@@ -2917,12 +2970,14 @@
    "word": "고양이 앞에 쥐",
    "mean": "무서운 사람 앞에서 꼼짝 못함을 뜻하는 말.",
    "example": "외박을 하고 온 남편은 화가 단단히 난 아내 앞에서 고양이 앞에 쥐처럼 떨고 있었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "고양이 쥐 생각",
    "mean": "마음과는 달리 겉으로만 생각해 주는 척함을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "고양이 쥐 어르듯",
@@ -2934,18 +2989,21 @@
    "word": "고양이한테 생선을 맡기다",
    "mean": "어떤 일이나 사물을 믿지 못할 사람에게 맡겨 놓아 걱정이 들다.",
    "example": "보안 요원이 물품을 빼돌린 사건은 고양이한테 생선을 맡긴 것과 다름없는 일이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "고인[고여 있는] 물이 썩는다",
    "mean": "자기 발전에 힘쓰지 않으면 더 나아가지 못하고 그 자리에 머무르거나 남들보다 뒤쳐진다.",
    "example": "고인 물이 썩는다고 그는 명석한 두뇌를 지녔어도 노력하지 않으니 금방 회사에서 뒤쳐졌다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "곡식 이삭은 익을수록[잘될수록] 고개를 숙인다",
    "mean": "교양이 있고 덕이 높은 사람일수록 다른 사람 앞에서는 겸손하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "곪으면 터지는 법",
@@ -2955,7 +3013,8 @@
   {
    "word": "고운 정 미운 정",
    "mean": "여러 일을 통해 상대에게 나쁜 감정, 좋은 감정을 모두 가져서 깊어진 정을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "공은 공이고, 사는 사다",
@@ -2977,13 +3036,15 @@
   {
    "word": "공든 탑이 무너지랴",
    "mean": "정성과 노력을 다하여 한 일은 그 결과가 헛되지 않다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "공자 앞에서 문자 쓴다",
    "mean": "자기보다 훨씬 유식한 사람 앞에서 아는 체한다.",
    "example": "전문가인 여러분께 이런 말씀을 드리는 것이 공자 앞에서 문자 쓰는 것일 수 있지만 간단히 설명하겠습니다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "공자 왈 맹자 왈 (하는 식)",
@@ -3010,13 +3071,15 @@
    "word": "구관이 명관이다",
    "mean": "1. 무슨 일이든 경험이 많거나 익숙한 사람이 더 잘하는 법이다. 2. 나중에 다른 사람을 만나서 겪어 보면 먼저 사람이 좋았음을 알게 되는 법이다.",
    "example": "회사에서 경력직 사원을 선호하는 걸 보니 역시 구관이 명관인가 보다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "구더기 무서워서 장 못 담글까",
    "mean": "다소 방해되는 것이 있다 하더라도 마땅히 할 일은 해야 함을 비유적으로 이르는 말.",
    "example": "구더기 무서워서 장 못 담글까라는 말처럼 때로는 피치 못할 부작용을 감수해야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "구렁이 담 넘어가듯",
@@ -3027,23 +3090,27 @@
   {
    "word": "굴러 온 돌이 박힌 돌 뺀다",
    "mean": "외부에서 들어온 지 얼마 안 되는 사람이 오래전부터 있던 사람을 내쫓거나 해치려 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "구르는 돌은 이끼가 안 낀다",
    "mean": "부지런하게 노력하는 사람은 계속 발전한다.",
    "example": "구르는 돌은 이끼가 안 낀다는 말처럼 나는 끊임없이 자기 계발에 힘쓰고 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "구슬이 서 말이라도 꿰어야 보배",
    "mean": "아무리 훌륭하고 좋은 것이라도 쓸모 있게 만들어 놓아야 가치가 있음을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "굴러온 돌이 박힌 돌 뺀다",
    "mean": "외부에서 들어온 지 얼마 안 되는 사람이 오래전부터 있던 사람을 내쫓거나 해치려 함을 비유적으로 이르는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "굴러온 돌한테 발등 다친다",
@@ -3053,7 +3120,8 @@
   {
    "word": "굴러온 호박",
    "mean": "뜻밖에 좋은 물건을 얻거나 행운을 만났다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "굶기를 밥 먹듯 한다",
@@ -3071,7 +3139,8 @@
    "word": "굿이나 보고 떡이나 먹다",
    "mean": "남의 일에 쓸데없이 간섭을 하지 않고 상황을 지켜보고 있다가 이익이나 얻다.",
    "example": "당신은 이 일을 지켜만 보고 있는데, 굿이나 보고 떡이나 먹자는 겁니까?",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "궁지에 빠진 쥐가 고양이를 문다",
@@ -3082,7 +3151,8 @@
   {
    "word": "귀에 걸면 귀걸이 코에 걸면 코걸이",
    "mean": "어떤 일이나 사물이 둘러대기에 따라 이렇게도 되고 저렇게도 될 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "귀머거리 삼 년이요 벙어리 삼 년(이라)",
@@ -3093,7 +3163,8 @@
    "word": "귀신 씻나락 까먹는 소리",
    "mean": "1. 또렷하지 않게 혼자서 중얼거리는 소리. 2. 몇몇이서 조용하게 수군대는 소리. 3. 이치에 맞지 않게 엉뚱하고 쓸데없는 말.",
    "example": "승규가 시험을 앞두고 입으로 중얼대면서 암기를 하는 것이 꼭 귀신 씻나락 까먹는 소리를 하는 것 같았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "귀여운 자식 매로 키운다",
@@ -3104,12 +3175,14 @@
    "word": "그 나물에 그 밥",
    "mean": "1. 서로 격에 어울리는 것끼리 짝이 되었을 경우를 두고 이르는 말. 2. 서로 수준이 비슷하여 별다르지 않거나 기대 이하임을 이르는 말. 3. 서로 비슷한 수준이어서 별다른 점을 느끼지 못함을 뜻하는 말.",
    "example": "그 부부는 그 나물에 그 밥이라고 정말 잘 어울린다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "그 아버지에 그 아들",
    "mean": "아들이 여러 면에서 아버지를 닮았음을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "그 어머니에 그 아들[딸]",
@@ -3132,7 +3205,8 @@
    "word": "긁어 부스럼",
    "mean": "아무렇지도 않은 일을 괜히 건드려서 크게 만들다.",
    "example": "주무시는 아버지 깨워서 괜히 긁어 부스럼 만들지 말고 빨리 학교나 가거라.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "금이야 옥이야",
@@ -3143,13 +3217,15 @@
   {
    "word": "금강산도 식후경",
    "mean": "아무리 재미있는 일이라도 배가 불러야 흥이 남을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "기는 놈 위에 나는 놈이 있다",
    "mean": "아무리 재주가 뛰어나도 그보다 더 나은 사람이 있다.",
    "example": "네가 일 등인 줄 알았는데 기는 놈 위에 나는 놈이 있다고 네 짝이 수학을 그렇게 잘할 줄은 생각도 못했구나.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "길이 아니거든[아니면] 가지 말고 말이 아니거든[아니면] 듣지[탓하지] 말라",
@@ -3161,43 +3237,51 @@
    "word": "길고 짧은 것은 대어 보아야 안다",
    "mean": "크고 작고, 이기고 지고, 잘하고 못하는 것은 실제로 해 보거나 겪어 보아야 알 수 있다.",
    "example": "길고 짧은 것은 대어 보아야 안다고 했듯이 아직은 누가 이길지 쉽게 말하기 어려웠다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "김칫국부터 마신다",
    "mean": "아직 일어날지 안 일어날지 모르는 일인데 미리부터 다 된 일로 알고 행동한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "까마귀 고기를 먹었나",
    "mean": "잘 잊어버리는 사람을 꾸짖거나 놀리는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "까마귀 날자 배 떨어진다",
    "mean": "우연히 동시에 일이 생겨서 아무 관계없는 사람이 관계가 있는 것으로 의심을 받게 되다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "깨물어서 아프지 않은 손가락 없다",
    "mean": "자식이 아무리 많아도 부모에게는 모두 똑같이 소중하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "꼬리가 길면 밟힌다",
    "mean": "비밀스러운 일을 오랫동안 계속하면 결국 들키게 되어 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "꾸어다[꿔다] 놓은 보릿자루",
    "mean": "사람들과 함께 있을 때 같이 어울리거나 말을 하지 않고 한쪽에 가만히 있는 사람.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "꿀 먹은 벙어리",
    "mean": "하고 싶은 말이나 자신의 생각을 말하지 못하고 있는 사람.",
    "example": "너는 왜 꿀 먹은 벙어리처럼 말을 안 해?",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "꿈도 꾸기 전에 해몽",
@@ -3207,7 +3291,8 @@
   {
    "word": "꿈보다 해몽이 좋다",
    "mean": "1. 하찮거나 마음에 들지 않는 일을 좋게 풀이하다. 2. 무슨 일이든지 겉으로 드러나는 현상보다 본질을 판단하는 것이 중요하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "꿩 구워 먹은 소식",
@@ -3218,13 +3303,15 @@
   {
    "word": "꿩 대신 닭",
    "mean": "꼭 적당한 것이 없을 때 그와 비슷한 것으로 대신하는 경우를 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "꿩 먹고 알 먹는다[먹기]",
    "mean": "한 가지 일로 두 가지 이상의 이익을 보다.",
    "example": "신문의 낱말 퍼즐은 풀면서 몰랐던 것도 배우고, 또 푸짐한 상품을 받을 수도 있으니 그야말로 꿩 먹고 알 먹기이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "나 먹기는 싫어도 남 주기는 아깝다",
@@ -3245,17 +3332,20 @@
    "word": "나무만 보고 숲을 보지 못한다",
    "mean": "어떤 일의 부분만 보고 전체를 보지 못한다.",
    "example": "무슨 일이든 멀리 내다보지 않고 눈앞의 이익만 쫓아가는 것은 나무만 보고 숲을 보지 못하는 것과 같다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "나이는 못 속인다",
    "mean": "나이를 아무리 속이려고 해도 행동이나 말에서 진짜 나이에 맞는 모습이 드러난다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "나는 새도 떨어뜨린다",
    "mean": "권세가 매우 대단해서 모든 일을 마음대로 할 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "날아가는 새도 떨어뜨린다",
@@ -3266,17 +3356,20 @@
   {
    "word": "남의 장단에 춤춘다",
    "mean": "자신의 의견이 없이 다른 사람이 하는 대로 그대로 따른다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "남의 떡이 더 커 보인다",
    "mean": "내 것보다 다른 사람의 것이 더 좋게 느껴진다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "남의 잔치[장/제사]에 감 놓아라 배 놓아라 한다",
    "mean": "다른 사람의 일에 이래라 저래라 간섭한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "남편 복 없는 여자는[년은] 자식 복도 없다",
@@ -3287,12 +3380,14 @@
    "word": "낫 놓고 기역 자도 모른다",
    "mean": "기역 자 모양의 낫을 앞에 두고도 기역 자를 모를 만큼 매우 무식하다.",
    "example": "초등학교도 나오지 못한 할아버지는 낫 놓고 기역 자도 모르는 문맹이셨다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "낮말은 새가 듣고 밤말은 쥐가 듣는다",
    "mean": "아무도 없는 곳에서 조심스럽게 한 말이라도 반드시 남의 귀에 들어가게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "낳은 정보다 기른 정이 더 크다",
@@ -3302,17 +3397,20 @@
   {
    "word": "내 손에 장을 지지겠다",
    "mean": "모진 일을 담보로 해서 자기가 옳다는 것을 장담하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "내 얼굴에 침 뱉기",
    "mean": "남에게 해를 입히려 하다가 오히려 자기가 해를 입게 된다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "내 코가 석 자",
    "mean": "내 사정이 급하고 어려워서 남을 돌볼 여유가 없다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "내민 손이 무안하다",
@@ -3339,13 +3437,15 @@
    "word": "넘어지면 코 닿을 데",
    "mean": "매우 가까운 곳을 뜻하는 말.",
    "example": "승규는 넘어지면 코 닿을 데도 걷기 싫어 택시를 타고 다닌다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "넘어진 김에 쉬어 간다",
    "mean": "뜻하지 않게 당한 좋지 않은 일을 오히려 기회로 이용한다.",
    "example": "부상을 당해 한동안 경기에 나갈 수 없었던 나는 넘어진 김에 쉬어 간다는 마음으로 당분간 쉬면서 체력을 기르기로 마음먹었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "놓친 고기가 더 크다[커 보인다]",
@@ -3356,12 +3456,14 @@
    "word": "누이 좋고 매부 좋다",
    "mean": "어떤 일이나 상황이 서로에게 다 이롭고 좋다.",
    "example": "회사는 물건을 많이 팔아서 좋고 소비자는 싸게 구입할 수 있어서 좋으니 공동 구매는 그야말로 누이 좋고 매부 좋은 일이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "눈 가리고 아웅",
    "mean": "얕은꾀로 남을 속이려 하는 모양.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "눈 감고 따라간다",
@@ -3396,12 +3498,14 @@
   {
    "word": "눈에 콩깍지가 씌었다",
    "mean": "사물을 정확하게 보지 못한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "눈에는 눈(을) 이에는 이(를)",
    "mean": "남이 자기에게 해를 입힌 만큼 자기도 그에게 해를 주는 모양.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "눈은 그 사람의 마음을 닮는다",
@@ -3448,12 +3552,14 @@
    "word": "누워서 떡 먹기",
    "mean": "매우 하기 쉬운 일을 뜻하는 말.",
    "example": "키가 큰 민준이에게 형광등을 가는 것은 누워서 떡 먹기였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "누워서 침 뱉기",
    "mean": "자신이 한 나쁜 행동의 결과가 자신에게 나쁘게 돌아오는 것을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "늙으면 눈물이 헤퍼진다",
@@ -3478,7 +3584,8 @@
   {
    "word": "늦게 배운 도둑이 날 새는 줄 모른다",
    "mean": "남보다 늦게 어떤 일에 흥미를 느낀 사람이 그것을 더 열심히 하게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "늦게 시작한 도둑이 새벽 다 가는 줄 모른다",
@@ -3488,17 +3595,20 @@
   {
    "word": "다 된 죽에 코 풀기",
    "mean": "1. 거의 다 된 일을 어이없이 망쳐 버리는 것. 2. 다른 사람의 다 된 일을 매우 나쁜 방법으로 방해하는 것.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "다 된 죽에 코 빠졌다",
    "mean": "거의 다 된 일을 어이없이 망쳐 버렸다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "다섯 손가락 깨물어서 아프지 않은 손가락이 없다",
    "mean": "자식은 똑같이 다 귀하고 소중하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "단맛 쓴맛 다 보다",
@@ -3509,37 +3619,44 @@
   {
    "word": "달도 차면 기운다",
    "mean": "세상 모든 일이 잘 되고 좋은 때가 있으면 그렇지 않은 때도 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "달걀로 바위 치기",
    "mean": "매우 어려운 상황이거나 너무 강한 상대여서 맞서 싸워도 도저히 이길 수 없는 경우.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "달면 삼키고 쓰면 뱉는다",
    "mean": "옳고 그른 것이나 신의를 신경 쓰지 않고 자기의 이익만을 따른다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "달리는 말에 채찍질",
    "mean": "1. 기세가 한창 좋을 때 더 힘을 가하는 것. 2. 힘껏 하는데도 자꾸 더 하라고 한다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "닭 소 보듯, 소 닭 보듯",
    "mean": "서로 아무 관심도 없이 대하는 모양.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "닭 잡아먹고 오리 발 내놓기",
    "mean": "자신이 저지른 잘못이 드러나자 엉뚱한 행동으로 이를 숨기려 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "닭 쫓던 개 지붕[먼산] 쳐다보듯",
    "mean": "노력하여 하던 일이 실패하자 실망해 기운을 잃은 모양.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "당장 먹기엔 곶감이 달다",
@@ -3554,7 +3671,8 @@
   {
    "word": "더도 말고 덜도 말고 늘 한가위만 같아라",
    "mean": "모든 것이 한가위 때만큼만 풍성해서 사는 것이 편안했으면 좋겠다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "도둑을 맞으려면 개도 안 짖는다",
@@ -3566,13 +3684,15 @@
    "word": "도둑이 제 발 저리다",
    "mean": "지은 죄가 있으면 자연히 마음이 조마조마해진다.",
    "example": "도둑이 제 발 저린다고 도둑은 자신의 범행이 들통 날까봐 안절부절못했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "도랑 치고 가재 잡는다",
    "mean": "한 가지 일을 하면서 두 가지 이익을 보다.",
    "example": "운동으로 다이어트를 하면 살도 빼고 건강도 좋아지니 도랑 치고 가재 잡는 셈이다. ",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "도마에 오른 고기",
@@ -3583,7 +3703,8 @@
    "word": "도토리 키 재기",
    "mean": "서로 비슷비슷한 사람끼리 자기가 더 낫다고 다툼.",
    "example": "외모가 비슷한 민준과 승규를 놓고 누가 더 잘생겼나 비교하는 것은 도토리 키 재기였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "돈은 있다가도 없어지고 없다가도 생기는 법이라",
@@ -3593,7 +3714,8 @@
   {
    "word": "돌다리도 두들겨 보고 건너라",
    "mean": "잘 알거나 확실해 보이는 일이라도 한 번 더 점검하고 주의해야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "동에 번쩍 서에 번쩍",
@@ -3608,18 +3730,21 @@
   {
    "word": "돼지 목에 진주(목걸이)",
    "mean": "가치를 모르거나 격에 맞지 않아 어울리지 않는다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "되로 주고 말로 받다",
    "mean": "다른 사람에게 조금 주고 훨씬 많은 양을 돌려받다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "될 성부른 나무는 떡잎부터 알아본다",
    "mean": "크게 될 사람은 어릴 때부터 남다르다.",
    "example": "될 성부른 나무는 떡잎부터 알아본다고 어릴 때부터 똑똑하고 대범하던 지수는 자라서 유능한 사업가가 되었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "두 손뼉이 맞아야 소리가 난다",
@@ -3648,7 +3773,8 @@
    "word": "뒤로[뒤에서] 호박씨 깐다",
    "mean": "평소에는 점잖아 보이나 남이 보지 않는 곳에서 못된 짓을 하다.",
    "example": "걔는 사람들 앞에서는 좋은 말만 하면서 뒤로 호박씨 까고 다닌다더라.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "뒤에 보자는 사람[양반] 무섭지 않다",
@@ -3674,7 +3800,8 @@
   {
    "word": "뒷구멍으로 호박씨 깐다",
    "mean": "겉으로는 행동과 태도가 신중하고 바르지만 남이 보지 않는 곳에서는 그와 다르게 행동한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "듣기 좋은 이야기도 늘 들으면 싫다",
@@ -3710,18 +3837,21 @@
   {
    "word": "등잔 밑이 어둡다",
    "mean": "가까이 있는 것을 오히려 잘 알기 어렵다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "따 놓은 당상",
    "mean": "어떤 일이 확실해서 계획된 대로 틀림없이 진행될 것임을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "땅 짚고 헤엄치기",
    "mean": "아주 쉬운 일을 뜻하는 말.",
    "example": "김 선수는 세계 대회에서 계속 일 등을 하고 있으니 이번 올림픽에서 금메달을 따는 것도 땅 짚고 헤엄치기일 것이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "땅에서 솟았나 하늘에서 떨어졌나",
@@ -3733,7 +3863,8 @@
    "word": "때리는 시어머니보다 말리는 시누이가 더 밉다",
    "mean": "겉으로는 위해 주는 체하면서 속으로는 해하고 헐뜯는 사람이 더 밉다.",
    "example": "때리는 시어머니보다 말리는 시누이가 더 밉다더니 선배에게 혼날 때 감싸주는 척하면서 내 잘못을 들추는 친구가 더 미웠다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "때린 놈은 다리 못 뻗고 자도 맞은 놈은 다리 뻗고 잔다",
@@ -3751,18 +3882,21 @@
    "word": "떡 본 김에 제사 지낸다",
    "mean": "우연히 얻은 좋은 기회에 하려고 했던 일을 한다.",
    "example": "떡 본 김에 제사 지낸다고 간만에 직원들이 모두 모인 자리에서 사장님은 간단하게 직원들에게 당부의 말을 몇 마디 했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "떡 줄 사람은 생각지도 않는데 김칫국부터 마신다",
    "mean": "해 줄 사람은 생각지도 않는데 미리부터 해 줄 것이라고 알고 행동한다.",
    "example": "떡 줄 사람은 생각지도 않는데 김칫국부터 마신다더니 큰형은 아버지가 자신에게 모든 재산을 물려줄 것이라고 굳게 믿고 있었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "떼어 놓은 당상",
    "mean": "어떤 일이 확실해서 계획된 대로 틀림없이 진행될 것임을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "똥 누고 밑 아니 씻은 것 같다",
@@ -3782,27 +3916,32 @@
   {
    "word": "똥 묻은 개가 겨 묻은 개 나무란다",
    "mean": "자기는 더 큰 잘못이나 결점이 있으면서 도리어 남의 작은 잘못을 흉본다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "똥이 무서워 피하나 더러워 피하지",
    "mean": "어떤 사람이 무서워서가 아니라 상대할 가치가 없어서 그 사람을 피한다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "뚝배기보다 장맛이 좋다",
    "mean": "겉모양은 보잘것없으나 내용은 훨씬 좋고 훌륭하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "뛰는 놈 위에 나는 놈 있다",
    "mean": "아무리 어떤 것에 뛰어나도 더 뛰어난 사람이 있으니 자만하면 안 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "뛰어 보았자 부처님 손바닥",
    "mean": "무엇을 하거나 도망치려고 해도 크게 벗어날 수 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "뛰어야 벼룩",
@@ -3818,13 +3957,15 @@
   {
    "word": "뜻이 있는 곳에 길이 있다",
    "mean": "어떠한 일을 하려는 의지가 있다면 그 일을 이룰 수 있는 방법이 생긴다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "마른하늘에 날벼락[생벼락]",
    "mean": "예상치 못하게 갑자기 당하는 재난.",
    "example": "아버지의 갑작스러운 사업 실패는 그야말로 마른하늘에 날벼락이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "마른하늘에 벼락 맞는다",
@@ -3835,12 +3976,14 @@
   {
    "word": "마파람에 게 눈 감추듯",
    "mean": "음식 먹는 것을 매우 빨리.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "만 리 길도 한 걸음으로 시작된다",
    "mean": "1. 아무리 큰일이라도 작은 일에서부터 시작된다. 2. 훌륭한 사람도 꾸준한 노력을 통해 훌륭하게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "만나자 이별",
@@ -3860,7 +4003,8 @@
   {
    "word": "말 한마디에 천 냥 빚도 갚는다",
    "mean": "말만 잘 하면 어려운 일도 쉽게 해결할 수 있을 정도로 말을 잘 하는 것이 중요하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "말로는 못할 말이 없다",
@@ -3890,7 +4034,8 @@
   {
    "word": "말이 씨가 된다",
    "mean": "나쁜 쪽으로 말을 하다 보면 그대로 이루어질 수도 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "말 타면 경마 잡히고 싶다",
@@ -3912,7 +4057,8 @@
    "word": "매도 먼저 맞는 놈이 낫다",
    "mean": "어차피 겪어야 할 일이라면 아무리 어렵고 괴롭더라도 먼저 당하는 편이 낫다.",
    "example": "매도 먼저 맞는 놈이 낫다니까 내가 먼저 선생님께 잘못을 고백해야겠다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "먹을 가까이하면 검어진다",
@@ -3927,12 +4073,14 @@
   {
    "word": "먹는 개도 아니 때린다",
    "mean": "음식을 먹고 있을 때는 혼내거나 꾸짖지 말아야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "먹을 때는 개도 때리지 않는다",
    "mean": "음식을 먹고 있을 때는 혼내거나 꾸짖지 말아야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "먼저 먹는 놈이 임자",
@@ -3942,7 +4090,8 @@
   {
    "word": "모난 돌이 정 맞는다",
    "mean": "1. 여럿 가운데 두드러지는 사람이 남에게 미움을 받게 된다. 2. 성격이 꼿꼿하고 곧은 사람은 남의 공격을 받는다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "모래 위에 선 누각[집]",
@@ -3953,55 +4102,65 @@
    "word": "모로 가도 서울만 가면 된다",
    "mean": "수단이나 방법은 상관없이 목적만 이루면 된다.",
    "example": ".",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "모르면 약이요 아는 게 병",
    "mean": "아무것도 모르면 마음이 편하고 좋지만, 무엇을 좀 알고 있으면 그것 때문에 걱정이 생겨 오히려 좋지 않다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "목구멍이 포도청",
    "mean": "먹고살기 위해서 해서는 안 될 짓까지 할 수밖에 없음.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "목마른 놈이 우물 판다",
    "mean": "제일 급하고 필요한 사람이 그 일을 서둘러 하게 되어 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "못 먹는 감 찔러나 본다",
    "mean": "자기가 갖지 못하게 된 것에 대해서 심술궂은 마음으로 남도 갖지 못하도록 못쓰게 만들다.",
    "example": "그 예쁜 여가수가 갑자기 결혼하자 못 먹는 감 찔러나 본다는 식으로 이상한 소문들이 퍼졌다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "못 오를 나무는 쳐다보지도 마라",
    "mean": "불가능한 일은 빨리 단념하라.",
    "example": "젊은이들이 '못 오를 나무는 쳐다보지도 말라'는 패배 의식에 사로잡혀 새로운 일에 도전조차 하지 않는 것은 잘못된 것이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "못된 송아지 엉덩이에 뿔이 난다",
    "mean": "성품이 나쁜 사람이 나쁜 짓을 많이 한다.",
    "example": "못된 송아지 엉덩이에 뿔 난다더니, 예의가 없는 민준이는 어딜 가나 손가락질을 받는다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "못되면 조상 탓 (잘되면 제 탓)",
    "mean": "일이 안될 때 그 책임을 남에게 돌리는 태도.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "무소식이 희소식",
    "mean": "아무 소식이 없는 것은 별일이 없다는 뜻이니 기쁜 소식이나 다름없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "무자식 상팔자",
    "mean": "자식이 없는 것이 오히려 걱정이 없어 마음이 편함을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "물에 물 탄 듯 술에 술 탄 듯",
@@ -4012,7 +4171,8 @@
   {
    "word": "물에 빠지면 지푸라기라도 잡는다[움켜쥔다]",
    "mean": "절망적이고 위급한 상황에서는 이를 극복하기 위해서 어떤 행동이라도 가리지 않고 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "물에 빠진 놈 건져 놓으니까 내 봇짐 내라 한다",
@@ -4032,7 +4192,8 @@
   {
    "word": "무는 개는 짖지 않는다",
    "mean": "진짜 무서운 사람은 말보다는 행동이 앞선다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "물독에 빠진 생쥐",
@@ -4047,75 +4208,88 @@
   {
    "word": "미꾸라지 한 마리가 온 웅덩이를 흐려 놓는다",
    "mean": "한 사람의 좋지 않은 행동이 그 집단 전체나 여러 사람에게 나쁜 영향을 미친다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "미끄러진 김에 쉬어 간다",
    "mean": "잘못된 기회를 이용하여 어떤 적절한 행동을 하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "믿는 도끼에 발등 찍힌다",
    "mean": "잘될 것이라고 생각한 일이 잘되지 않거나 믿었던 사람이 배신을 하여 해를 입다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "미운 아이[놈] 떡 하나 더 준다",
    "mean": "미워하는 사람일수록 더 잘 대해 주고 나쁜 감정을 쌓지 않아야 한다.",
    "example": "미운 놈 떡 하나 더 준다는 심정으로 민준이는 자신을 괴롭히는 직장 상사에게 항상 웃으며 먼저 말을 건넸다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "미운 일곱 살",
    "mean": "어린아이들은 일곱 살을 전후로 부모 말을 잘 듣지 않고 말썽을 많이 일으킨다는 말.",
    "example": "어린 동생을 매일 괴롭히고 집안을 들쑤시고 다니는 지수는 말 그대로 미운 일곱 살이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "미운 정 고운 정",
    "mean": "여러 일을 통해 상대에게 나쁜 감정, 좋은 감정을 모두 가져서 깊어진 정.",
    "example": "나와 지수는 초등학교 때부터 단짝이라 미운 정 고운 정이 다 들었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "밑 빠진 독[가마/항아리]에 물 붓기",
    "mean": "아무리 노력해도 보람이 없이 헛된 일이 되는 상태.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "밑으로 호박씨 깐다",
    "mean": "겉으로는 아닌 척하면서 남이 보지 않는 곳에서는 좋지 않은 짓을 하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "밑구멍으로 호박씨 깐다",
    "mean": "겉으로는 점잖고 의젓하나 남이 보지 않는 곳에서는 엉뚱한 짓을 한다.",
    "example": "유민이는 밑구멍으로 호박씨 까듯이 친구들이 없을 때는 다른 사람들과 친구의 흉을 보았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "밑져야 본전",
    "mean": "일이 잘못되어도 손해는 아님을 뜻하는 말.",
    "example": "민준이는 밑져야 본전이라는 심정으로 친구에게 투자를 부탁했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "바늘 가는 데 실 간다",
    "mean": "사이가 긴밀해서 언제나 함께 다닌다.",
    "example": "유민과 지수는 바늘 가는 데 실 가는 것처럼 항상 붙어 다닌다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "바늘 도둑이 소도둑 된다",
    "mean": "작은 나쁜 짓도 자꾸 하게 되면 큰 죄를 저지르게 된다.",
    "example": "어머니는 안방에서 백 원짜리 동전을 훔친 나를 바늘 도둑이 소도둑 되는 법이라며 크게 혼내셨다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "바늘로 찔러도 피 한 방울 안 난다",
    "mean": "빈틈없고 차가운 성격을 가지고 있다.",
    "example": "김 과장은 말투와 표정이 딱딱해서 바늘로 찔러도 피 한 방울 안 날 것같이 매정해 보인다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "바닥 다 보았다",
@@ -4130,7 +4304,8 @@
   {
    "word": "바람 앞의 등불",
    "mean": "매우 위태롭고 불안한 처지를 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "바람이 불어야 배가 가지",
@@ -4141,7 +4316,8 @@
    "word": "받아 놓은 당상",
    "mean": "어떤 일이 조금의 틀림도 없이 확실하게 보이는 경우.",
    "example": "그가 차린 식당은 장사가 잘 돼서 부자가 되는 것은 이제 받아 놓은 당상이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "받아 놓은 밥상",
@@ -4158,7 +4334,8 @@
   {
    "word": "발 없는 말이 천 리 간다",
    "mean": "한 번 한 말은 순식간에 멀리 퍼진다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "발(을) 뻗을 자리를 보고 누우랬다",
@@ -4173,12 +4350,14 @@
   {
    "word": "밤말은 쥐가 듣고 낮말은 새가 듣는다",
    "mean": "아무도 없는 곳에서 조심스럽게 한 말이라도 반드시 남의 귀에 들어가게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "밥 먹을 때는 개도 안 때린다",
    "mean": "아무리 잘못을 했어도 음식을 먹고 있을 때에는 때리거나 혼내지 말아야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "밥 빌어다가 죽을 쑤어 먹을 놈[자식]",
@@ -4199,69 +4378,82 @@
    "word": "방귀 뀐 놈이 성낸다",
    "mean": "잘못을 저질러 놓고 오히려 남에게 화를 낸다.",
    "example": "방귀 뀐 놈이 성낸다고 지수는 실수로 컵을 깨뜨려 놓고 엄마에게 괜히 심통을 부렸다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "배보다 배꼽이 더 크다",
    "mean": "주된 것보다 그것에 딸린 것에 드는 돈이나 노력 등이 더 많이 든다는 말.",
    "example": "이렇게 비싼 이자를 물고 돈을 빌려야 하다니 배보다 배꼽이 더 큰 격이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "백 번 듣는 것이 한 번 보는 것만 못하다",
    "mean": "듣기만 하는 것보다는 직접 보는 것이 확실하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "백지 한 장도 맞들면 낫다",
    "mean": "쉬운 일이라도 서로 도우면 훨씬 쉽다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "백지장도 맞들면 낫다",
    "mean": "아무리 쉬운 일이라도 서로 도와서 하면 훨씬 더 쉽다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "뱁새가 황새를 따라가면 다리가 찢어진다",
    "mean": "능력이 되지 않는 일이나 분수에 넘치는 일을 무리해서 하면 오히려 해를 입는다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "번갯불에 콩 구워[볶아] 먹다",
    "mean": "1. 참을성 없이 매우 조급하게 굴다. 2. 어떤 일의 진행 속도나 행동이 매우 빠르다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "법은 멀고 주먹은 가깝다",
    "mean": "1. 사람이 화가 나면 말이나 법으로 문제를 해결할 생각을 하지 않고 먼저 폭력을 쓰게 된다는 말. 2. 때로는 법보다는 폭력을 써서 문제를 해결하는 것이 더 나을 때도 있다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "벗 따라 강남 간다",
    "mean": "자기의 의사와는 관계없이 친구가 하는 대로 그대로 따라한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "벙어리 냉가슴 앓듯",
    "mean": "자신의 속마음이나 사정을 말하지 못해 혼자 애태우고 답답해하는 경우를 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "벼 이삭은 익을수록 고개를 숙인다",
    "mean": "능력이 뛰어나거나 높은 위치에 있는 사람일수록 겸손하다.",
    "example": "벼는 익을수록 고개를 숙인다더니 그 선수는 늘 우승의 공을 다른 사람들에게 돌린다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "벼룩도 낯짝이 있다",
    "mean": "아주 작은 벼룩도 낯짝이 있듯이 사람에게는 체면이 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "벼룩의 간을 내먹는다",
    "mean": "어려운 처지에 있는 사람에게서 이익을 취하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "벽에도 귀가 있다",
@@ -4271,7 +4463,8 @@
   {
    "word": "병 주고 약 준다",
    "mean": "다른 사람에게 피해를 주고 나서 도움을 주는 척한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "병에는 장사 없다",
@@ -4281,7 +4474,8 @@
   {
    "word": "보기 좋은 떡이 먹기도 좋다",
    "mean": "1. 겉모양이 좋으면 내용도 좋다. 2. 내용뿐 아니라 겉모양을 좋게 하는 것도 필요하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "보채는 아이 밥 한 술 더 준다",
@@ -4291,12 +4485,14 @@
   {
    "word": "부모 말을 잘 들으면 자다가도 떡이 생긴다",
    "mean": "부모의 말을 잘 듣고 순종하면 좋은 일이 생긴다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "부부 싸움은 칼로 물 베기",
    "mean": "부부는 싸워도 화해하기 쉬움을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "불 가져오라는데 물 가져온다",
@@ -4307,7 +4503,8 @@
   {
    "word": "불난 집에 부채질한다",
    "mean": "남의 재앙을 점점 더 커지도록 만들거나 화난 사람을 더욱 화나게 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "불면 꺼질까 쥐면 터질까",
@@ -4336,29 +4533,34 @@
   {
    "word": "비 온 뒤에 땅이 굳어진다",
    "mean": "어려운 일을 경험한 뒤에 더 강해진다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "빈 수레가 더 요란하다",
    "mean": "실력이나 재물 등 가진 것이 없는 사람이 오히려 더 요란하게 떠들어댄다.",
    "example": "빈 수레가 더 요란하다고 그렇게 동네방네 자랑을 하더니 그게 모두 허풍이었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "빈대 잡으려고 초가삼간 태운다",
    "mean": "자신이 손해를 볼 것은 생각지 아니하고 마음에 안 드는 것을 무턱대고 없애려는 경우.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "빈대도 낯짝이 있다",
    "mean": "지나치게 염치가 없는 사람을 나무라는 말.",
    "example": "빈대도 낯짝이 있다던데 너는 만날 얻어먹기만 하냐?",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "빛 좋은 개살구",
    "mean": "겉으로 보기에는 좋으나 실제로는 좋지 못한 것.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "사람 나고 돈 났지 돈 나고 사람 났나",
@@ -4465,23 +4667,27 @@
    "word": "사자 없는 산에 토끼가 왕[대장] 노릇 한다",
    "mean": "잘난 사람이 없는 곳에서는 그 보다 못난 사람이 잘난 체 한다.",
    "example": "사자 없는 산에 토끼가 왕 노릇 한다는 옛말이 틀릴 것이 하나 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "사촌이 땅을 사면 배가 아프다",
    "mean": "남이 잘되는 것을 기뻐해 주지는 않고 오히려 질투하고 시기하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "사후 약방문",
    "mean": "일을 그르친 후에야 뒤늦게 대책을 세움을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "산 넘어 산이다",
    "mean": "어려움이 끝나지 않고 갈수록 더 심해지다.",
    "example": "월급도 밀렸는데 회사가 부도까지 나다니 정말 산 넘어 산이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "산 좋고 물 좋고 정자 좋은 데 없다",
@@ -4508,7 +4714,8 @@
   {
    "word": "삼십육계 줄행랑이 제일[으뜸]",
    "mean": "어렵고 힘든 일이 닥쳤으나 당장 그 일을 해결할 수 없을 때 일단 잠시 그 상황에서 몸을 피하는 것이 좋다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "상갓집 개 [노릇]",
@@ -4519,7 +4726,8 @@
    "word": "새 발의 피",
    "mean": "아주 적은 양.",
    "example": "내 연봉을 대기업에서 받는 연봉과 비교해 보면 정말 새 발의 피다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "새벽 봉창 두들긴다",
@@ -4535,12 +4743,14 @@
    "word": "서당 개 삼 년에 풍월을 읊는다",
    "mean": "어떤 분야에 지식이 전혀 없는 사람이라도 그 부문에 오래 있으면 지식과 경험을 갖게 된다.",
    "example": "서당 개 삼 년에 풍월을 읊는다더니 미국인 친구와 매일 만나니 영어 실력이 저절로 늘었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "서울 (가서) 김 서방 찾는다[찾기]",
    "mean": "잘 모르는 사람을 무턱대고 찾아가거나 막연한 일을 무턱대고 하려고 하는 것을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "서울 가 본 놈하고 안 가 본 놈하고 싸우면 서울 가 본 놈이 못 이긴다",
@@ -4550,12 +4760,14 @@
   {
    "word": "선무당이 사람 잡는다[죽인다]",
    "mean": "능력도 없으면서 함부로 나서다가 큰일을 저지르게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "세 살 적 버릇[마음]이 여든까지 간다",
    "mean": "어릴 때 몸에 밴 버릇은 늙어 죽을 때까지 고치기 힘들다는 뜻으로 어릴 때부터 나쁜 버릇이 들지 않도록 조심해야 한다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "세치 혀가 사람 잡는다",
@@ -4565,7 +4777,8 @@
   {
    "word": "세월이 약",
    "mean": "아무리 가슴 아프고 힘든 일을 겪어도 시간이 흐르고 나면 자연히 잊게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "셋이 먹다가 둘이 죽어도 모른다",
@@ -4577,17 +4790,20 @@
    "word": "소 닭 보듯",
    "mean": "어떤 것을 무심하게 대하는 모양.",
    "example": "민준이는 예쁜 여자를 앞에 두고도 소 닭 보듯 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "소 뒷걸음질 치다 쥐 잡다",
    "mean": "소가 뒷걸음질 치다가 우연히 쥐를 잡게 되었다는 뜻으로, 우연히 공을 세우다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "소 잃고 외양간 고친다",
    "mean": "일이 이미 잘못된 뒤에는 바로잡으려고 애써도 소용이 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "소도 언덕이 있어야 비빈다",
@@ -4603,12 +4819,14 @@
   {
    "word": "소문난 잔치에 먹을 것 없다",
    "mean": "좋다고 널리 퍼진 소문이나 기대에 비해 실제가 별로 좋지 않다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "속 빈 강정",
    "mean": "겉만 그럴듯하고 실속은 없음.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "속에 뼈 있는 소리",
@@ -4620,13 +4838,15 @@
    "word": "속이 빈 깡통이 소리만 요란하다",
    "mean": "실속이 없는 것이 겉으로 보기에는 실속이 있는 것처럼 요란해 보이다.",
    "example": "속이 빈 깡통이 소리만 요란하다는 말처럼 그 책은 제목만 거창했지 별 내용은 없었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "손 안 대고 코 풀기",
    "mean": "일을 힘을 안 들이고 아주 쉽게 함을 뜻하는 말.",
    "example": "승규는 모든 일을 다 동생에게 시키고 손 안 대로 코 풀기만 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "손이 많으면 일도 쉽다",
@@ -4646,7 +4866,8 @@
   {
    "word": "손바닥으로 하늘 가리기",
    "mean": "아무리 숨기려 해도 숨길 수 없다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "손바닥을 뒤집는 것처럼 쉽다",
@@ -4667,19 +4888,22 @@
    "word": "쇠귀에 경 읽기",
    "mean": "아무리 가르쳐 줘도 알아듣지 못하거나 효과가 없는 경우를 뜻하는 말.",
    "example": "내 동생은 아직 어려서 이 일을 아무리 설명해 주어도 쇠귀에 경 읽기이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "쇠뿔도 단김에 빼랬다[빼라]",
    "mean": "하려고 마음먹은 일은 마음먹었을 때 곧바로 해야 한다.",
    "example": "쇠뿔도 단김에 빼라는 말이 있듯이, 하고 싶은 일이 있으면 즉시 행동에 옮겨야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "수박 겉 핥기",
    "mean": "어떤 일이나 사물의 속 내용은 잘 모르고 겉만 건드림을 뜻하는 말.",
    "example": "그 학생은 수박 겉 핥기로 공부를 해서 조금만 어려운 문제가 나오면 손도 대지 못한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "순풍에 돛을 달다",
@@ -4711,7 +4935,8 @@
   {
    "word": "시작이 반이다",
    "mean": "일을 시작하기가 어렵지 일단 시작하면 끝내기는 그렇게 어렵지 않다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "시작한 일은 끝을 보라",
@@ -4722,7 +4947,8 @@
    "word": "실 가는 데 바늘도 간다",
    "mean": "사람과 사람 사이의 관계가 긴밀하거나 친밀해 항상 붙어 다닌다.",
    "example": "바늘 가는 데 실 간다고 금실이 좋은 부부는 무슨 일을 하든 항상 붙어 다녔다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "실 한 오라기 안 걸치다",
@@ -4733,7 +4959,8 @@
   {
    "word": "십 년 묵은 체증이 내리다",
    "mean": "오랫동안 신경을 쓰던 것이 해결되어 마음이 후련해지다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "십 년 세도 없고 열흘 붉은 꽃 없다",
@@ -4743,12 +4970,14 @@
   {
    "word": "십 년이면 강산도 변한다",
    "mean": "시간이 흐르게 되면 모든 것이 다 변하게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "싼 것이 비지떡",
    "mean": "값이 싼 물건은 품질도 그만큼 나쁘게 마련이라는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "싸움 끝에 정이 붙는다",
@@ -4758,7 +4987,8 @@
   {
    "word": "싸움은 말리고 흥정은 붙이랬다",
    "mean": "나쁜 일은 말리고 좋은 일은 권해야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "쌀은 쏟고 주워도 말은 하고 못 줍는다",
@@ -4776,7 +5006,8 @@
    "word": "썩어도 준치",
    "mean": "원래 가치가 있는 것은 낡거나 좋지 않은 상태가 되어도 어느 정도 가치가 있음을 뜻하는 말.",
    "example": "썩어도 준치라고 나이가 들었지만 주장은 녹슬지 않은 기량을 보여 줬다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "썩은 동아줄 같다",
@@ -4792,18 +5023,21 @@
   {
    "word": "쏟아진 물",
    "mean": "한 번 일어난 일을 다시 바로잡거나 되돌릴 수 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "쓰면 뱉고 달면 삼킨다",
    "mean": "옳고 그름을 따지지 않고 자기의 이익만을 따른다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "쓴 약이 몸에도 좋다",
    "mean": "혼나는 것이나 비판을 듣는 것이 당장은 좋지 않지만 잘 받아들이면 본인에게 이롭다.",
    "example": "쓴 약이 몸에도 좋다고, 지금 엄마가 하는 말 듣기 싫어도 잘 새겨라.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "쓴맛 단맛 다 보다",
@@ -4829,12 +5063,14 @@
   {
    "word": "아 해 다르고 어 해 다르다",
    "mean": "같은 내용의 이야기라도 어떻게 말하느냐에 따라 다르다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "아끼다 똥 된다",
    "mean": "물건을 너무 아끼기만 하다가는 잃어버리거나 못 쓰게 되다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "아내가 귀여우면 처갓집 말뚝 보고도 절한다",
@@ -4844,12 +5080,14 @@
   {
    "word": "아니 땐 굴뚝에 연기 날까",
    "mean": "1. 원인이 없으면 결과가 있을 수 없음을 뜻하는 말. 2. 실제 어떤 일이 있기 때문에 말이 나옴을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "아닌 밤중에 홍두깨 (내밀듯)",
    "mean": "갑자기 상황에 맞지 않는 엉뚱한 말이나 행동을 한다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "아비만 한 자식 없다",
@@ -4880,12 +5118,14 @@
   {
    "word": "안되는 사람은 자빠져도 [뒤로 넘어져도] 코가 깨진다",
    "mean": "재수가 나쁜 사람은 보통 사람에게 잘 생기지도 않는 나쁜 일까지 생긴다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "안되면 조상[산소] 탓",
    "mean": "일이 안될 때 그 책임을 남에게 돌리는 태도를 이르는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "앉은 자리에 풀도 안 나겠다",
@@ -4905,12 +5145,14 @@
   {
    "word": "아는 것이 병[탈]",
    "mean": "1. 정확하지 못하거나 분명하지 않은 지식은 오히려 걱정거리가 될 수 있다는 말. 2. 아무것도 모르면 마음이 편하고 좋지만 무엇을 알고 있으면 그것 때문에 걱정이 생겨 오히려 좋지 않다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "아는 길도 물어 가랬다",
    "mean": "잘 아는 일이라도 잘 확인하여 실수가 없게 하라는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "아는 놈 당하지 못한다",
@@ -4927,22 +5169,26 @@
    "word": "앓던 이가 빠진 것 같다",
    "mean": "문젯거리나 걱정거리가 없어져서 속이 시원하다.",
    "example": "사고뭉치 승규가 전학을 가니 김 선생님은 앓던 이가 빠진 것 같았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "암탉이 운다",
    "mean": "가정에서 여자가 남자를 제쳐 놓고 집안을 휘두른다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "암탉이 울면 집안이 망한다",
    "mean": "가정에서 아내가 남편을 제쳐 놓고 집안일에 나서고 참견하면 일이 잘 안 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "앞길이 구만 리 같다",
    "mean": "아직 나이가 젊어서 앞으로 어떤 큰일이라도 해낼 수 있는 날들이 충분히 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "야윈 말이 짐 탐한다",
@@ -4977,12 +5223,14 @@
   {
    "word": "약방에 감초",
    "mean": "어떤 일에든 빠짐없이 끼는 사람. 또는 반드시 있어야 할 물건.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "얌전한 고양이[강아지/개](가) 부뚜막에 먼저 올라간다",
    "mean": "겉으로는 얌전한 척하지만 실제로는 그렇지 않다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "양반은 물에 빠져도 개헤엄은 안 한다",
@@ -4998,7 +5246,8 @@
    "word": "어느 장단에 춤추랴",
    "mean": "1. 의견이 너무 많아서 어떤 것을 따를지 난처함을 뜻하는 말. 2. 상대방의 변덕이 심해 난처함을 뜻하는 말.",
    "example": "어머니는 의사가 되라고 하고 아버지는 변호사가 되라고 하고 어느 장단에 춤춰야 할지 몰라.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "어느 집 개가 짖느냐 한다",
@@ -5015,12 +5264,14 @@
    "word": "어르고 뺨 치다",
    "mean": "사람을 그럴듯한 말로 구슬려서 해를 입히다.",
    "example": "사기꾼은 그럴듯한 말로 사람들을 어르고 뺨 쳐서 돈을 뜯어냈다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "어른 말을 들으면 자다가도 떡이 생긴다",
    "mean": "어른이 시키는 대로 하면 여러 가지로 이익이 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "어릴 적 버릇은 늙어서까지 간다",
@@ -5040,12 +5291,14 @@
   {
    "word": "억지로 절 받기",
    "mean": "생각이 없던 상대방에게 자기 스스로 요구하여 대접을 받음.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "언 발에 오줌 누기",
    "mean": "잠깐 효과가 있을지는 모르나 그 효과가 오래가지도 않고 결국에는 오히려 상태가 더 나빠지는 일.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "없는 놈이 찬밥 더운 밥을 가리랴",
@@ -5056,19 +5309,22 @@
    "word": "엎드려 절 받기",
    "mean": "생각이 없던 상대방에게 자기 스스로 요구하여 대접을 받음.",
    "example": "엎드려 절 받기 같은 사과라도 하지 않는 사람보다야 낫다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "엎어지면 코 닿을 데",
    "mean": "매우 가까운 거리.",
    "example": "차로 오 분만에 도착한 그 곳은 정말 엎어지면 코 닿을 데에 있었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "엎어진 김에 쉬어 간다",
    "mean": "잘못된 상황을 좋은 기회로 잘 활용한다.",
    "example": "엎어진 김에 쉬어 간다고, 비가 오니 집에서 공부나 해야겠어.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "여우를 피해서 호랑이를 만났다",
@@ -5084,7 +5340,8 @@
   {
    "word": "여자가 한을 품으면 오뉴월에도 서리가 내린다",
    "mean": "여자가 미워하는 마음이 생기면 아주 무섭고 독하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "열을 듣고 하나도 모른다",
@@ -5096,19 +5353,22 @@
    "word": "열 번 찍어 안 넘어가는 나무 없다",
    "mean": "어떤 일이든 꾸준히 노력하면 이루지 못할 것이 없다.",
    "example": "열 번 찍어 안 넘어가는 나무가 없다더니 오빠는 끈질긴 구애 끝에 결혼에 성공했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "열 길 물속은 알아도 한 길 사람의 속은 모른다",
    "mean": "사람의 속마음은 알기가 매우 어렵다.",
    "example": "지수는 갑자기 친구가 변하자 열 길 물속은 알아도 한 길 사람의 속은 모른다며 화를 냈다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "열 번 듣는 것이 한 번 보는 것만 못하다",
    "mean": "듣기만 하는 것보다는 직접 보는 것이 확실하다.",
    "example": "나는 유명한 관광지에 가서 열 번 듣는 것이 한 번 보는 것만 못하다는 말을 실감했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "열 번 쓰러지면 열 번 (다시) 일어난다",
@@ -5120,13 +5380,15 @@
    "word": "열 번 찍어 아니 넘어가는 나무 없다",
    "mean": "아무리 굳은 마음을 가지고 있어도 여러 번 뜻을 바꾸도록 말하면 마음이 변한다.",
    "example": "나는 열 번 찍어 아니 넘어가는 나무 없다고 믿어서 친구를 계속 설득했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "열 손가락 깨물어 안 아픈 손가락이 없다",
    "mean": "자식은 똑같이 다 귀하고 소중하다.",
    "example": "부모님은 열 손가락 깨물어 안 아픈 손가락이 없다며 우리 자매를 똑같이 챙겨 주셨다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "열흘 붉은 꽃이 없다",
@@ -5143,13 +5405,15 @@
    "word": "오는 날이 장날",
    "mean": "어떤 일을 하려고 하자 뜻하지 않은 일을 우연히 당함.",
    "example": "바쁜 일들을 끝내고 좀 쉬려고 하는데 오는 날이 장날이라고 아버지께서 편찮으시다는 연락이 왔다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "오는 말이 고와야 가는 말이 곱다",
    "mean": "남이 나에게 말이나 행동을 좋게 하면 나도 남에게 말이나 행동을 좋게 한다.",
    "example": "오는 말이 고와야 가는 말이 고운 법인데 네가 나를 안 좋게 말하니까 나도 널 안 좋게 말할 수밖에 없어.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "오는 정이 있어야 가는 정이 있다",
@@ -5167,7 +5431,8 @@
    "word": "오르지 못할 나무는 쳐다보지도 마라",
    "mean": "자신에게 불가능한 일은 처음부터 욕심내지 않는 것이 좋다.",
    "example": "이 실력으로 대회에서 상을 받는다는 것은 무리니까 그냥 오르지 못할 나무는 쳐다보지도 마라.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "오입쟁이 제 욕심 채우듯",
@@ -5179,7 +5444,8 @@
    "word": "옥에 티",
    "mean": "다 훌륭하고 좋은데 안타깝게도 있는 작은 흠.",
    "example": "불안했던 수비는 승리를 거둔 우리 팀의 옥에 티였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "옷은 새 옷이 좋고 사람은 옛 사람이 좋다",
@@ -5189,22 +5455,26 @@
   {
    "word": "옷이 날개라",
    "mean": "옷이 좋으면 사람이 돋보인다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "우물 안 개구리[고기]",
    "mean": "넓은 세상을 알지 못하거나 보는 눈이 좁아서 자기만 잘난 줄 아는 사람.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "우물에 가 숭늉 찾는다",
    "mean": "모든 일에는 질서와 차례가 있는 법인데 일의 순서도 모르고 성급하게 덤빈다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "우물을 파도 한 우물을 파라",
    "mean": "일을 너무 벌여 놓거나 하던 일을 자꾸 바꾸면 아무런 성과가 없으니 어떤 일이든 한 가지 일을 끝까지 하여야 성공할 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "우물가에 애 보낸 것 같다",
@@ -5221,7 +5491,8 @@
    "word": "우는 아이 젖 준다",
    "mean": "어떤 것을 구하고 싶으면 자기가 요구해야 한다.",
    "example": "원래 우는 아이 젖 준다고, 네가 나에게 이걸 달라고 하지 않았으면 주지 않았을 거야.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "울 수 없으니까 웃는다",
@@ -5233,7 +5504,8 @@
    "word": "울며 겨자 먹기",
    "mean": "싫은 일을 억지로 하다.",
    "example": "아내가 일을 하러 나가는 날이면 나는 울며 겨자 먹기로 집안일을 해야 했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "웃고 사람[뺨] 친다",
@@ -5245,7 +5517,8 @@
    "word": "웃는 낯에 침 못 뱉는다",
    "mean": "좋게 대하는 사람에게 나쁘게 대할 수 없다.",
    "example": "웃는 낯에 침 못 뱉는다고 남편이 애교를 부리니까 그냥 용서해 준다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "웃는 집에 복이 있다",
@@ -5262,18 +5535,21 @@
   {
    "word": "원수는 외나무다리에서 만난다",
    "mean": "1. 꺼리고 싫어하는 대상을 피할 수 없는 곳에서 공교롭게 만나게 됨을 이르는 말. 2. 남에게 악한 일을 하면 그 죄를 받을 때가 반드시 온다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "원숭이도 나무에서 떨어진다",
    "mean": "어떤 일을 오랫동안 해서 잘 하는 사람도 가끔 실수할 때가 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "윗물이 맑아야 아랫물이 맑다",
    "mean": "지위나 신분이 높은 윗사람이 잘해야 아랫사람도 잘하게 되다.",
    "example": "윗물이 맑아야 아랫물도 맑다는 말도 있듯이 반장은 모든 사람에게 모범이 될 만한 사람으로 뽑아야 한다. ",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "음지가 양지 되고 양지가 음지 된다",
@@ -5283,7 +5559,8 @@
   {
    "word": "이 없으면 잇몸으로 살지[산다]",
    "mean": "필요로 하는 것이 없어도 없는 대로 다른 방법으로 해결할 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "이에 신물이 돈다[난다]",
@@ -5313,7 +5590,8 @@
   {
    "word": "이름난 잔치 배고프다",
    "mean": "소문이나 큰 기대에 비해 내용이 보잘것없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "이부자리 보고 발을 펴라",
@@ -5324,7 +5602,8 @@
    "word": "이웃이 사촌보다 낫다",
    "mean": "가까이 사는 이웃끼리 서로 친하게 지내면 먼 곳에 사는 친척보다 더 정도 들고 관계도 더 좋을 수 있다.",
    "example": "시골 마을일수록 이웃이 사촌보다 나은 경우가 많다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "익은 밥 먹고 선소리한다",
@@ -5335,7 +5614,8 @@
    "word": "인간 만사는 새옹지마라",
    "mean": "좋은 일과 나쁜 일은 돌고 돈다.",
    "example": "인간 만사는 새옹지마라더니 꼴찌만 하던 승규가 회사 사장이 될 줄 누가 알았겠어?",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "인간은 만물의 척도",
@@ -5351,7 +5631,8 @@
   {
    "word": "임도 보고 뽕도 딴다",
    "mean": "두 가지 일을 동시에 이룬다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "입에 맞는 떡",
@@ -5361,7 +5642,8 @@
   {
    "word": "입에 쓴 약이 몸에 좋다",
    "mean": "다른 사람의 충고나 비판이 그 자리에서는 듣기 싫지만 그 뜻을 잘 생각해 보면 도움이 된다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "입에서 신물이 난다",
@@ -5378,7 +5660,8 @@
    "word": "입이 열 개라도 할 말이 없다",
    "mean": "잘못이 분명하게 밝혀져서 변명도 할 수 없다.",
    "example": "바람을 피우다 들킨 김 대리는 아내에게 입이 열 개라도 할 말이 없었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "입맛이 반찬",
@@ -5398,7 +5681,8 @@
   {
    "word": "자기 얼굴[낯]에 침 뱉기",
    "mean": "다른 사람에게 해를 주려고 하다가 오히려 자기가 해를 입게 된다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "자다가 벼락을 맞는다",
@@ -5408,12 +5692,14 @@
   {
    "word": "자다가 봉창 두드린다",
    "mean": "이치에 맞지 않는 말이나 행동을 급작스럽게 하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "자라 보고 놀란 가슴 솥뚜껑 보고 놀란다",
    "mean": "어떤 것에 크게 놀란 사람은 비슷한 물건만 보아도 겁을 낸다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "자식 둔 부모 근심 놓을 날 없다",
@@ -5445,22 +5731,26 @@
   {
    "word": "작은 고추가 더 맵다",
    "mean": "몸집이 작은 사람이 큰 사람보다 재주가 뛰어나고 야무지다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "잘 나가다[가다가] 삼천포로 빠지다",
    "mean": "어떤 일이나 이야기가 중간에 엉뚱한 방향으로 나아간다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "잘 자랄 나무는 떡잎부터 안다[알아본다]",
    "mean": "잘될 사람은 어렸을 때부터 그런 가능성이 보인다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "잘되면 제 탓[복] 못되면 조상[남] 탓",
    "mean": "일이 잘 안될 때 그 책임을 다른 사람 때문이라고 생각함.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "잘되면 충신 못되면 역적이라",
@@ -5470,7 +5760,8 @@
   {
    "word": "장님 코끼리 만지는 격",
    "mean": "1. 어떤 것의 부분만 알면서 전체를 다 안다고 여긴다는 말. 2. 자기의 능력이나 상황에 맞지 않게 큰 것을 생각하거나 이야기함을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "장부가 칼을 빼었다가 도로 꽂나",
@@ -5480,7 +5771,8 @@
   {
    "word": "재수 없는 놈은 (뒤로) 자빠져도 코가 깨진다",
    "mean": "일이 안되려면 하는 모든 일이 잘 안 풀리고 뜻밖의 큰 불행도 생긴다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "재수가 옴 붙었다[붙다]",
@@ -5491,7 +5783,8 @@
   {
    "word": "재주는 곰이 넘고 돈은 주인이 받는다",
    "mean": "수고하여 일한 사람은 따로 있고 그에 대한 보상은 다른 사람이 받는다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "저 먹자니 싫고 남[개] 주자니 아깝다",
@@ -5533,33 +5826,39 @@
   {
    "word": "제 꾀에 (제가) 넘어간다",
    "mean": "꾀를 내어 남을 속이려다 도리어 자기가 그 꾀에 속아 넘어간다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "제 논에 물 대기",
    "mean": "자기에게만 이롭도록 일을 하는 것을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "제 버릇 개 줄까",
    "mean": "한번 들인 나쁜 버릇은 고치기 어려움을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "제 살 깎아 먹기",
    "mean": "자기가 한 일의 결과가 자신들에게 해가 됨을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "제 코가 석 자",
    "mean": "내 사정이 급하고 어려워서 남을 돌볼 여유가 없음을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "제사보다 젯밥에 정신이 있다",
    "mean": "맡은 일에는 정성을 들이지 않으면서 자기 이익을 차리는 데에만 마음을 두다.",
    "example": "제사보다 젯밥에 정신이 있다더니, 민준이는 자기 일은 소홀히 하면서 프로젝트가 성공해서 포상금을 받을 일에만 관심을 둔다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "조상 신주 모시듯",
@@ -5569,12 +5868,14 @@
   {
    "word": "종로에서 뺨 맞고 한강에서[한강에 가서] 눈 흘긴다",
    "mean": "1. 욕을 당한 자리에서는 아무 말도 못 하고 뒤에 가서 불평한다. 2. 자신의 노여움을 관계가 없는 다른 곳에서 푼다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "종잇장도 맞들면 낫다",
    "mean": "아무리 쉬운 일이라도 서로 도와서 하면 훨씬 더 쉽다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "좋은 노래도 세 번 들으면 귀가 싫어한다",
@@ -5605,7 +5906,8 @@
   {
    "word": "주머니 털어 먼지 안 나오는 사람 없다",
    "mean": "아무리 깨끗해 보이는 사람이라도 숨겨진 허점은 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "주먹이 운다[울다]",
@@ -5615,24 +5917,28 @@
   {
    "word": "주사위는 던져졌다",
    "mean": "어떤 일이 되돌릴 수 없는 지경에 이르렀기에 계속 진행해 나가거나 결과를 기다리는 수밖에 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "죽 쑤어 개 준다",
    "mean": "애써 한 일을 남에게 빼앗기거나, 의도하지 않은 사람에게 이로운 일을 하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "죽은 뒤에 약방문",
    "mean": "일이 잘못된 후에야 뒤늦게 그에 대한 대책을 생각함을 뜻하는 말.",
    "example": "사고가 일어난 뒤에 안전 대책을 세운다니 죽은 뒤에 약방문이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "죽은 자식 나이 세기",
    "mean": "이미 지나간 일은 다시 생각해 봐도 소용이 없음을 뜻하는 말.",
    "example": "작년에 잘못한 일을 이제 와서 후회하는 건 죽은 자식 나이 세기이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "중(이) 절 보기 싫으면 떠나야지",
@@ -5642,12 +5948,14 @@
   {
    "word": "중이 제 머리(를) 못 깎는다",
    "mean": "자기가 자신에 관한 일을 해결하기는 어려운 일이어서 남의 손을 빌려야만 이루기 쉽다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "쥐구멍에도 볕 들 날 있다",
    "mean": "몹시 고생을 하는 생활에도 좋은 일이 생기는 날이 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "지는 게 이기는 거다",
@@ -5657,13 +5965,15 @@
   {
    "word": "지렁이도 밟으면 꿈틀한다",
    "mean": "아무리 지위가 낮거나 순하고 좋은 사람이라도 너무 업신여기면 가만히 있지 않는다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "지성이면 감천",
    "mean": "정성이 지극하면 하늘도 감동한다는 뜻으로, 무슨 일이든 정성을 다하면 일이 잘 풀려 좋은 결과가 생김.",
    "example": "지성이면 감천이라는 말도 있듯이 이 세상에 최선을 다해서 안 되는 일은 없을 것이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "집 떠나면 고생이다",
@@ -5679,19 +5989,22 @@
   {
    "word": "집에서 새는 바가지는 들에 가도 샌다",
    "mean": "원래 행동이 좋지 않은 사람은 어딜 가서도 행동을 하는 것이 좋지 않다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "짖는 개는 물지 않는다",
    "mean": "겉으로 떠들어 대는 사람은 도리어 실속이 없다.",
    "example": "짖는 개는 물지 않는다는 말이 있듯이 조용히 실력을 연마하는 것이 더 실속 있는 것이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "짚신도 제짝이 있다",
    "mean": "보잘것없는 사람도 제짝이 있다.",
    "example": "짚신도 제짝이 있다는 말이 맞는지 노총각 삼촌이 드디어 결혼을 했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "짝 잃은 기러기",
@@ -5702,7 +6015,8 @@
   {
    "word": "찔러도 피 한 방울 안 나겠다",
    "mean": "냉철하고 냉정해서 인정이라고는 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "차면 넘친다[기운다]",
@@ -5713,7 +6027,8 @@
   {
    "word": "찬물도 위아래가 있다",
    "mean": "어떤 일이건 순서가 있으니 그 순서를 지켜야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "참는 자에게 복이 있다",
@@ -5723,17 +6038,20 @@
   {
    "word": "참을 인 자 셋이면 살인도 피한다",
    "mean": "아무리 분한 일이 있어도 끝까지 참으면 화를 면할 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "참새가 방앗간을 그저 지나랴",
    "mean": "자기가 좋아하거나 자기에게 이익이 되는 일을 보고 그냥 지나가지 못한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "참새가 황새걸음 하면 다리가 찢어진다",
    "mean": "자기의 처지나 능력을 생각하지 않고 분수에 넘치는 일을 하다가는 낭패를 보거나 해를 입게 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "처녀가 아이를 낳아도 할 말이 있다",
@@ -5743,17 +6061,20 @@
   {
    "word": "천 길 물속은 알아도 한 길 사람의 속은 모른다",
    "mean": "사람의 속마음은 알기가 매우 어렵다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "천 냥 빚도 말로 갚는다",
    "mean": "말만 잘하면 어려운 일이나 불가능해 보이는 일도 해결할 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "천 리 길도 한 걸음부터",
    "mean": "아무리 큰 일도 처음에는 작은 일부터 시작되듯이 무슨 일이나 그 일의 시작이 중요하다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "easy": true
   },
   {
    "word": "천 리도 지척이라",

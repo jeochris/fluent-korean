@@ -71,6 +71,22 @@ def main():
         print(f'  {key:12} {len(data[key]):>5} → {len(merged):>5} (표제어 기준 병합)')
         data[key] = merged
 
+    # 너무 쉬운(= 누구나 아는) 항목에 표시를 남긴다. 지우지 않고 표시만 하므로
+    # 기준이 바뀌면 목록 파일만 고쳐 다시 돌리면 된다. 봇은 easy 인 것을 건너뛴다.
+    for key, fname in (('sokdam', 'easy_sokdam.json'),
+                       ('sajaseongeo', 'easy_sajaseongeo.json'),
+                       ('gwanyonggu', 'easy_gwanyonggu.json')):
+        fpath = os.path.join(root, 'data', fname)
+        if not os.path.exists(fpath):
+            continue
+        easy = set(json.load(open(fpath, encoding='utf-8')))
+        n = 0
+        for x in data[key]:
+            if x['word'] in easy:
+                x['easy'] = True
+                n += 1
+        print(f'  {key:12} 쉬움 표시 {n}개 → 봇이 쓰는 것 {len(data[key]) - n}개')
+
     json.dump(data, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
 

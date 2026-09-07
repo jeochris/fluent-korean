@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""매일 사자성어·속담·관용구를 하나씩 슬랙에 올린다."""
+"""매일 사자성어·속담 하나씩과 관용구 두 개를 슬랙에 올린다."""
 import hashlib
 import json
 import os
@@ -15,7 +15,7 @@ DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "daily_k
 DAILY = [
     ("sajaseongeo", "사자성어", "🀄", 1),
     ("sokdam", "속담", "🗣️", 1),
-    ("gwanyonggu", "관용구", "💬", 1),
+    ("gwanyonggu", "관용구", "💬", 2),
 ]
 
 WEEKDAY = "월화수목금토일"
@@ -125,7 +125,9 @@ def main():
 
     picks = []
     for key, label, emoji, n in DAILY:
-        for item in pick(data[key], key, today, n):
+        # easy 로 표시된 항목(= 누구나 아는 것)은 올리지 않는다.
+        pool = [x for x in data[key] if not x.get("easy")]
+        for item in pick(pool, key, today, n):
             picks.append((label, emoji, item))
 
     summary = " · ".join(f"{lab} {it['word'].strip()}" for lab, _, it in picks)
