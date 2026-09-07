@@ -85,13 +85,12 @@ def build_blocks(picks, day):
             {"type": "section", "text": {"type": "mrkdwn", "text": "\n".join(lines)}}
         )
 
-    sources = ["국립국어원 한국어기초사전"]
-    if any(i.get("source") == "namuwiki" for _, _, i in picks):
-        sources.append("나무위키")
     blocks.append(
         {
             "type": "context",
-            "elements": [{"type": "mrkdwn", "text": "출처: " + " · ".join(sources)}],
+            "elements": [
+                {"type": "mrkdwn", "text": "출처: 국립국어원 한국어기초사전 (CC BY-SA 2.0 KR)"}
+            ],
         }
     )
     return blocks
