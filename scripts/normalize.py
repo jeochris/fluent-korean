@@ -44,14 +44,30 @@ def main():
         for x in data[key]:
             x.setdefault('source', 'krdict')
 
-    # 위키낱말사전 보충분 병합 (같은 표제어는 한국어기초사전 쪽을 우선한다)
-    extra_path = os.path.join(root, 'data', 'wiktionary_sajaseongeo.json')
-    if os.path.exists(extra_path):
+    # 사자성어 보충분 병합. 뜻풀이 품질이 좋은 순서로 넣고, 같은 표제어는 먼저
+    # 들어온 쪽을 남긴다: 한국어기초사전 > 위키낱말사전 > 나무위키.
+    for fname in ('krdict_sajaseongeo.json',
+                  'wiktionary_sajaseongeo.json',
+                  'namu_sajaseongeo.json'):
+        extra_path = os.path.join(root, 'data', fname)
+        if not os.path.exists(extra_path):
+            continue
         have = {x['word'].strip() for x in data['sajaseongeo']}
         extra = [x for x in json.load(open(extra_path, encoding='utf-8'))
                  if x['word'].strip() not in have]
-        print(f'위키낱말사전 병합: +{len(extra)}')
+        print(f'  {fname:32} +{len(extra)}')
         data['sajaseongeo'] += extra
+
+    # 자동 수집한 뜻풀이가 깨진 것은 아예 뺀다. 정책상 제외(blocked)와 달리
+    # 데이터 자체가 못 쓰는 경우라 표시만 남기지 않고 지운다.
+    bk_path = os.path.join(root, 'data', 'broken.json')
+    if os.path.exists(bk_path):
+        broken = set(json.load(open(bk_path, encoding='utf-8')))
+        for key in ('sajaseongeo', 'sokdam', 'gwanyonggu'):
+            before = len(data[key])
+            data[key] = [x for x in data[key] if x['word'] not in broken]
+            if before != len(data[key]):
+                print(f'  뜻풀이 불량 제거: {key} -{before - len(data[key])}')
 
     # 사자성어는 네 글자만
     before = len(data['sajaseongeo'])
