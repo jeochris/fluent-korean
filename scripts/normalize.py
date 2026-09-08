@@ -73,14 +73,6 @@ def main():
 
     # 너무 쉬운(= 누구나 아는) 항목에 표시를 남긴다. 지우지 않고 표시만 하므로
     # 기준이 바뀌면 목록 파일만 고쳐 다시 돌리면 된다. 봇은 easy 인 것을 건너뛴다.
-    # 관용구는 2,227개를 다 훑지 않고 1,200개만 검토했다. 검토한 것만 봇이 쓴다.
-    rv_path = os.path.join(root, 'data', 'reviewed_gwanyonggu.json')
-    if os.path.exists(rv_path):
-        reviewed = set(json.load(open(rv_path, encoding='utf-8')))
-        for x in data['gwanyonggu']:
-            if x['word'] in reviewed:
-                x['reviewed'] = True
-
     for key, fname in (('sokdam', 'easy_sokdam.json'),
                        ('sajaseongeo', 'easy_sajaseongeo.json'),
                        ('gwanyonggu', 'easy_gwanyonggu.json')):

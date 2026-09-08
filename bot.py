@@ -125,11 +125,8 @@ def main():
 
     picks = []
     for key, label, emoji, n in DAILY:
-        # 누구나 아는 것(easy)은 건너뛴다. 관용구처럼 일부만 난이도를 검토한
-        # 갈래는 검토를 마친 것만 쓴다 (reviewed 표시가 아예 없는 갈래는 전부 사용).
-        partial = any("reviewed" in x for x in data[key])
-        pool = [x for x in data[key]
-                if not x.get("easy") and (x.get("reviewed") or not partial)]
+        # 누구나 아는 것(easy)은 올리지 않는다. 세 갈래 모두 난이도를 검토했다.
+        pool = [x for x in data[key] if not x.get("easy")]
         for item in pick(pool, key, today, n):
             picks.append((label, emoji, item))
 
