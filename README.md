@@ -40,7 +40,10 @@ python scripts/extract_krdict.py
    - Settings → Secrets and variables → Actions → New repository secret
    - 이름 `SLACK_WEBHOOK_URL`, 값은 위 URL
 
-3. push 하면 끝. 매일 09:00 KST 에 올라간다.
+3. push 하면 끝. 매일 09:17 KST 에 올라간다.
+
+cron 을 정각(`0 0 * * *`)으로 두면 안 된다. 전 세계에서 몰리는 시간이라 크게 밀리거나
+아예 건너뛴다. 실제로 그렇게 두었다가 첫 스케줄이 오지 않았다.
 
 ## 로컬 테스트
 
@@ -52,7 +55,7 @@ SLACK_WEBHOOK_URL=... python bot.py
 
 ## 동작 방식
 
-매일 09:00 KST 에 **한 개의 메시지**로 4개 항목을 올린다.
+매일 09:17 KST 에 **한 개의 메시지**로 4개 항목을 올린다.
 
 | 순서 | 종류 | 개수 | 쓰는 항목 | 중복 없이 |
 |---|---|---|---|---|
