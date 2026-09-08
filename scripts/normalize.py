@@ -87,6 +87,13 @@ def main():
         print(f'  {key:12} {len(data[key]):>5} → {len(merged):>5} (표제어 기준 병합)')
         data[key] = merged
 
+    # 이전 실행에서 붙인 표시를 먼저 지운다. 지우지 않으면 목록에서 항목을 뺐을 때
+    # 파일에 표시가 남아 되돌릴 수 없다.
+    for key in ('sajaseongeo', 'sokdam', 'gwanyonggu'):
+        for x in data[key]:
+            x.pop('easy', None)
+            x.pop('blocked', None)
+
     # 너무 쉬운(= 누구나 아는) 항목에 표시를 남긴다. 지우지 않고 표시만 하므로
     # 기준이 바뀌면 목록 파일만 고쳐 다시 돌리면 된다. 봇은 easy 인 것을 건너뛴다.
     for key, fname in (('sokdam', 'easy_sokdam.json'),
