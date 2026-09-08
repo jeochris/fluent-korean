@@ -1103,7 +1103,8 @@
    "mean": "생활을 방탕하게 만드는 술과 여자와 노름.",
    "hanja": "酒色雜技",
    "example": "임금은 주색잡기에 사로잡혀 백성들의 고통은 안중에도 없었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "중상모략",
@@ -1630,7 +1631,8 @@
    "word": "미인박명",
    "mean": "잘 생긴 여자의 삶은 순조롭지 못하고 탈이 많다는 말. 본디 고사성어는 '가인박명'이다.",
    "source": "wiktionary",
-   "hanja": "美人薄命"
+   "hanja": "美人薄命",
+   "blocked": true
   },
   {
    "word": "박리다매",
@@ -1731,7 +1733,8 @@
    "word": "벌성지부",
    "mean": "인성(人性)을 베는 도끼라는 뜻으로, 여색에 빠지는 일을 이르는 말.",
    "source": "wiktionary",
-   "hanja": "伐性之斧"
+   "hanja": "伐性之斧",
+   "blocked": true
   },
   {
    "word": "복거지계",
@@ -1743,7 +1746,8 @@
    "word": "복고여산",
    "mean": "배가 산처럼 높다는 뜻으로, 아이 밴 여자의 배부른 모양을 이르는 말.",
    "source": "wiktionary",
-   "hanja": "腹高如山"
+   "hanja": "腹高如山",
+   "blocked": true
   },
   {
    "word": "복과재생",
@@ -1774,7 +1778,8 @@
    "word": "복불재강",
    "mean": "양자 나간 사람이나 출가한 여자가 본생가나 친정의 부재모상(父在母喪)에 상복(喪服)을 한 등급 떨어뜨리지 않는 일.",
    "source": "wiktionary",
-   "hanja": "服不再降"
+   "hanja": "服不再降",
+   "blocked": true
   },
   {
    "word": "복선화음",
@@ -1810,7 +1815,8 @@
    "word": "부위부강",
    "mean": "지아비는 지어미의 '벼리'가 되어야 한다.",
    "source": "wiktionary",
-   "hanja": "夫爲婦綱"
+   "hanja": "夫爲婦綱",
+   "blocked": true
   },
   {
    "word": "부위자강",
@@ -1840,7 +1846,8 @@
    "word": "비육불포",
    "mean": "고기를 먹지 아니하면 배가 부르지 아니하다는 뜻으로, 늙은이가 쇠약해진 지경을 이르는 말.",
    "source": "wiktionary",
-   "hanja": "非肉不飽"
+   "hanja": "非肉不飽",
+   "blocked": true
   },
   {
    "word": "비익연리",
@@ -2420,12 +2427,14 @@
    "word": "치마 밑에 키운 자식",
    "mean": "남편이 없이 키운 과부의 자식.",
    "example": "어머니는 아이들이 남편 없이 치마 밑에 키운 자식이라는 말을 들을까 봐 엄하게 교육했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "치마가 열두 폭인가",
    "mean": "(비꼬는 말로) 다른 사람의 일에 간섭하고 참견함을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "친구 따라 강남 간다",
@@ -2479,7 +2488,8 @@
    "word": "키 크고 싱겁지 않은 사람 없다",
    "mean": "보통 키가 큰 사람은 행동이나 말이 야무지지 못하고 부족한 데가 많다.",
    "example": "요즘처럼 키가 큰 사람들이 많은 세상에는 키 크고 싱겁지 않은 사람 없다는 말도 이제는 옛말이 되어 버린 듯하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "타고난 팔자",
@@ -2676,7 +2686,8 @@
   {
    "word": "허울 좋은 과부",
    "mean": "겉으로 보기에는 좋지만 실제로는 그렇지 않은 사람이나 사물.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "허울 좋은 도둑놈",
@@ -2745,7 +2756,8 @@
   {
    "word": "호박꽃도 꽃이냐",
    "mean": "예쁘지 않은 여자는 여자로 볼 수 없음을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "혹 떼러 갔다 혹 붙여 온다",
@@ -2764,7 +2776,8 @@
    "word": "효부 없는 효자 없다",
    "mean": "며느리가 착하고 시부모를 잘 모시고 받들어야 아들도 따라 효도한다는 말.",
    "example": "우리 부부는 효부 없는 효자 없다며 착한 며느리를 얻기를 바랐다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "흉 없는 사람 없다",
@@ -2788,7 +2801,8 @@
    "word": "가난이 죄다",
    "mean": "가난 때문에 사람이 범죄를 저지르거나 불행을 겪게 된다.",
    "example": "먹을 것을 살 돈이 없어 도둑질을 하는 사람들을 보면 가난이 죄다 싶은 생각이 든다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "가난 구제는 나라님[임금님]도 못한다",
@@ -2891,7 +2905,8 @@
   {
    "word": "개 눈에는 똥만 보인다",
    "mean": "평소에 좋아하거나 관심이 있는 것만 보이는 것을 놀리며 이르는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "개 닭 보듯",
@@ -2982,7 +2997,8 @@
   {
    "word": "검은 머리 가진 짐승은 구제 말란다",
    "mean": "사람이 도와주어도 고마움을 모름을 핀잔하여 이르는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "검은 머리 파뿌리 되도록[될 때까지]",
@@ -3149,7 +3165,8 @@
    "word": "공것 바라면 이마[대머리]가 벗어진다",
    "mean": "1. (놀리는 말로) 이마가 벗어진 사람을 이르는 말. 2. (놀리는 말로) 공짜를 좋아하는 사람을 이르는 말.",
    "example": "공짜 좋아하는 민준이가 대머리인 것을 보면 공것 바라면 대머리가 벗어진다는 속담이 맞는 말 같다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "공것이라면 양잿물도 먹는다",
@@ -3239,7 +3256,8 @@
   {
    "word": "굴러온 돌한테 발등 다친다",
    "mean": "외부에서 들어온 지 얼마 안 되는 사람이 오래전부터 있던 사람을 내쫓거나 해치려 함을 비유적으로 이르는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "굴러온 호박",
@@ -3281,7 +3299,8 @@
   {
    "word": "귀머거리 삼 년이요 벙어리 삼 년(이라)",
    "mean": "여자가 결혼하여 시집에서 살면 남의 말을 듣고도 못 들은 척하고 하고 싶은 말이 있어도 참아야 함을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "귀신 씻나락 까먹는 소리",
@@ -3293,7 +3312,8 @@
   {
    "word": "귀여운 자식 매로 키운다",
    "mean": "자식이 귀할수록 매로 때려서라도 버릇을 잘 가르쳐야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "그 나물에 그 밥",
@@ -3498,7 +3518,8 @@
   {
    "word": "남편 복 없는 여자는[년은] 자식 복도 없다",
    "mean": "결혼을 잘못해서 평생 고생만 하는 것을 한탄하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "낫 놓고 기역 자도 모른다",
@@ -3555,7 +3576,8 @@
   {
    "word": "너하고 말하느니 개하고 말하겠다",
    "mean": "말의 뜻을 잘 알아듣지 못하는 상대를 비꼬는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "넘어지면 코 닿을 데",
@@ -4025,17 +4047,20 @@
   {
    "word": "똥 누고 밑 아니 씻은 것 같다",
    "mean": "어떤 일의 마무리나 뒤처리가 깔끔하게 되지 않아 마음에 불편함이 남다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "똥 누는 놈 주저앉히기",
    "mean": "남을 괴롭히는 고약하고 못된 마음이나 행동.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "똥 누러 갈 적 마음 다르고 올 적 마음 다르다",
    "mean": "자기 일이 급할 때는 사정하며 매달리다가 그 일이 무사히 끝나고 나면 그 도와준 수고를 잊고 모른 체하며 지내다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "똥 묻은 개가 겨 묻은 개 나무란다",
@@ -4076,7 +4101,8 @@
    "word": "뜨고도 못 보는 당달봉사",
    "mean": "어수룩하여 두 눈으로 뻔히 보고도 제대로 잘 알지 못하는 사람.",
    "example": "김 씨는 그들이 사기꾼인지 알면서도 사기를 당하는 뜨고도 못 보는 당달봉사였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "뜻이 있는 곳에 길이 있다",
@@ -4486,7 +4512,8 @@
   {
    "word": "밥 빌어다가 죽을 쑤어 먹을 놈[자식]",
    "mean": "게으른 데다가 어리석기까지 한 사람.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "밥 안 먹어도 배부르다",
@@ -4646,13 +4673,15 @@
    "word": "불알 두 쪽밖에는 없다",
    "mean": "가진 것이 아무 것도 없다.",
    "example": "민준이는 가진 거라고는 불알 두 쪽밖에는 없는 백수였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "불알을 긁어 주다",
    "mean": "남에게 잘 보이려고 살살 아첨을 하다.",
    "example": "그 정치인은 바른 말을 하는 사람보다 가려운 불알을 긁어 주는 사람만 밑에 두려고 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "비 온 뒤에 땅이 굳어진다",
@@ -4744,7 +4773,8 @@
   {
    "word": "사람의 새끼는 서울로 보내고 마소 새끼는 시골[제주]로 보내라",
    "mean": "사람은 어릴 때부터 큰 도시로 보내 공부를 시켜야 잘될 수 있고 동물은 시골에서 키워야 잘 큰다는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "사람이 굶어 죽으란 법은 없다",
@@ -4775,7 +4805,8 @@
   {
    "word": "사랑하는 자식일수록 매로 다스리라",
    "mean": "자식이 귀할수록 매로 때려서라도 엄하게 잘 가르쳐야 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "사위 사랑은 장모 며느리 사랑은 시아버지",
@@ -4844,7 +4875,8 @@
   {
    "word": "상갓집 개 [노릇]",
    "mean": "(비유적으로) 먹여 주고 돌봐 줄 주인을 잃은 상갓집 개와 같이 천대를 받으며 비굴하게 얻어먹으러 다니는 불쌍한 꼴.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "새 발의 피",
@@ -5078,7 +5110,8 @@
    "word": "실 한 오라기 안 걸치다",
    "mean": "아무 것도 입지 않고 발가벗다.",
    "example": "아이는 실 한 오라기 안 걸치고 강에서 물장구를 치며 놀았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "십 년 묵은 체증이 내리다",
@@ -5459,7 +5492,8 @@
    "word": "여자 셋이 모이면 접시가 깨진다",
    "mean": "여자가 많이 모이면 말도 많고 야단스럽다.",
    "example": "여자 셋이 모이면 접시가 깨진다고 아줌마들이 모이자 금방 자리가 시끄러워졌다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "여자가 한을 품으면 오뉴월에도 서리가 내린다",
@@ -5523,7 +5557,8 @@
   {
    "word": "오뉴월 감기는 개도 아니 걸린다[앓는다]",
    "mean": "(놀리는 말로) 여름에 감기에 걸리는 사람은 변변치 못하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "오는 날이 장날",
@@ -5562,7 +5597,8 @@
    "word": "오입쟁이 제 욕심 채우듯",
    "mean": "다른 사람의 처지는 전혀 배려하지 않고 자신이 하고 싶은 것만 하는 경우.",
    "example": "그는 오입쟁이 제 욕심 채우듯 자기 이익 챙기기에만 바빠 남을 배려하지 않았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "옥에 티",
@@ -6180,7 +6216,8 @@
   {
    "word": "처녀가 아이를 낳아도 할 말이 있다",
    "mean": "아무리 큰 잘못을 저지른 사람도 그것을 변명하고 이유를 붙일 수 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "천 길 물속은 알아도 한 길 사람의 속은 모른다",
@@ -6603,7 +6640,8 @@
    "word": "키를 쓰다",
    "mean": "아이가 자다가 오줌을 싸서 다음 날 아침에 이웃에게 소금을 얻으러 다니는 벌을 받기 위해 키를 머리에 쓰다.",
    "example": "아랫집 아이가 오줌 싼 벌로 키를 쓰고 소금을 얻으러 왔다. ",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "키(를) 잡다",
@@ -6822,7 +6860,8 @@
   {
    "word": "평생을 맡기다",
    "mean": "1. 여자가 결혼을 하다. 2. 여자를 결혼시키다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "포문을 열다",
@@ -7227,17 +7266,20 @@
   {
    "word": "학교 구경도 못하다",
    "mean": "학교에서 제대로 된 교육을 전혀 받지 못하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "학교 근처에도 못[안] 가 보다",
    "mean": "정규 교육을 전혀 받지 못하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "학교(는) 구경도 못하다",
    "mean": "정규 교육을 전혀 받지 못하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "학질을 떼다",
@@ -8634,7 +8676,8 @@
   {
    "word": "개 잡듯",
    "mean": "개를 잡을 때처럼 함부로 치고 때리는 모습을 뜻하는 말.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "개 패듯",
@@ -8651,7 +8694,8 @@
   {
    "word": "개나발(을) 불다",
    "mean": "이치에 맞지 않는 헛소리나 쓸데없는 말을 하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "개똥도 없다",
@@ -9023,7 +9067,8 @@
   {
    "word": "고래(를) 잡다",
    "mean": "남자의 성기 끝을 덮고 있는 살가죽을 제거하는 수술을 하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "고래 등 같다",
@@ -9596,7 +9641,8 @@
    "word": "귀싸대기를 올리다",
    "mean": "귀와 뺨이 만나는 부근을 때리다.",
    "example": "흥분한 승규는 화를 참지 못하고 친구의 귀싸대기를 올렸다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "귀청(이) 떨어지다",
@@ -9789,7 +9835,8 @@
   {
    "word": "그림(이) 좋다",
    "mean": "(비꼬는 말로) 함께 있는 남녀가 잘 어울리다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "그림의 떡",
@@ -10260,7 +10307,8 @@
    "word": "꼬부랑 늙은이",
    "mean": "허리가 구부러질 만큼 아주 나이가 많고 늙은 사람.",
    "example": "두 사람은 꼬부랑 늙은이가 될 때까지 오래오래 행복하게 살았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "꼬집어 말하다",
@@ -10666,7 +10714,8 @@
    "word": "납작코가 되다",
    "mean": "심하게 체면이 깎이거나 자존심이 상하다.",
    "example": "세계 최강의 축구 대표 팀이 아마추어 축구 팀에게 크게 져 납작코가 되었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "낭패(를) 보다",
@@ -11282,7 +11331,8 @@
    "word": "눈이 캄캄하다",
    "mean": "1. 정신이 어지럽고 생각이 막힌 상태이다. 2. 글자를 알지 못하다.",
    "example": "부도를 맞은 김 사장은 앞으로 어떻게 살지 눈이 캄캄했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "눈이 트이다",
@@ -11319,12 +11369,14 @@
    "word": "눈깔(을) 뒤집다",
    "mean": "(속된 말로) 좋지 않은 일에 열중하여 이성을 잃다.",
    "example": "옆집 아저씨는 젊었을 때 노름에 눈깔을 뒤집고 달려들었다가 재산을 다 날리셨다고 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "눈깔(이) 뒤집히다",
    "mean": "(속된 말로) 충격적인 일을 당하거나 어떤 일에 집착하여 이성을 잃다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "눈깔(이) 삐다",
@@ -11335,12 +11387,14 @@
   {
    "word": "눈깔이 멀다",
    "mean": "(속된 말로) 마치 눈이 먼 것처럼 잘못된 행동을 하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "눈깔이 벌겋다",
    "mean": "(속된 말로) 무엇을 찾는 데 매우 열중해 있다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "눈꺼풀이 씌다",
@@ -11716,13 +11770,15 @@
    "word": "대가리(가) 굵다",
    "mean": "(속된 말로) 어른처럼 생각하거나 판단하게 되다.",
    "example": "민준이도 이제 꽤 대가리가 굵어서 제법 어른 행세를 한다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "대가리(가) 크다",
    "mean": "(속된 말로) 어른처럼 생각하거나 판단하게 되다.",
    "example": "동생은 이제 대가리가 컸다고 부모님에게 대들기 시작했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "대가리(를) 굴리다",
@@ -11735,13 +11791,15 @@
    "word": "대가리가 비다",
    "mean": "(속된 말로) 아는 것이 없다.",
    "example": "넌 그렇게 대가리가 비어서 나중에 대학은 어떻게 갈래?",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "대가리가 터지도록[터지게] 싸우다",
    "mean": "몹시 심하게 치고 때리면서 싸우다.",
    "example": "우리는 대가리가 터지도록 싸워 놓고는 다음 날이면 또 화해를 했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "대가리에 피도 안 마르다",
@@ -12176,7 +12234,8 @@
    "word": "뒤가 무겁다",
    "mean": "1. 똥이 잘 나오지 않아 답답한 느낌이 있다. 2. 병을 앓고 나서 아직 몸이 개운하지 않다.",
    "example": "화장실에 갔다가 그냥 나왔더니 뒤가 무겁다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "뒤가 무사하다",
@@ -12350,7 +12409,8 @@
    "word": "뒷구멍을 캐다[파다]",
    "mean": "다른 사람의 실수나 잘못을 찾아내다.",
    "example": "아내는 남편이 바람을 피우는 것을 눈치채고 남편의 뒷구멍을 캐기로 결심했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "뒷길(을) 두다",
@@ -12594,7 +12654,8 @@
    "word": "떡을 치다",
    "mean": "양이나 정도가 충분하다.",
    "example": "이 식당은 음식을 푸짐하게 내주어서 삼 인분만 시켜도 네 식구가 다 먹고도 떡을 칠 정도였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "떡이 되다",
@@ -12625,7 +12686,8 @@
    "word": "똥(을) 뀌다",
    "mean": "방귀를 뀌다.",
    "example": "똥 뀐 냄새가 얼마나 지독했던지 숨을 쉬기가 힘들 정도였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "똥(을) 밟다",
@@ -12664,7 +12726,8 @@
   {
    "word": "똥차가 밀리다",
    "mean": "(속된 말로) 위로 결혼하지 않은 형제나 자매가 있어 그 동생들이 결혼하지 못하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "똬리를 틀다",
@@ -13738,7 +13801,8 @@
    "word": "머리(를) 얹히다",
    "mean": "처녀를 결혼시키다.",
    "example": "좋은 남자를 찾아 딸의 머리를 얹히고 싶었지만 마땅한 사윗감이 없었다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "머리(를) 올리다",
@@ -14302,7 +14366,8 @@
    "word": "몸(이) 나다",
    "mean": "살이 쪄서 뚱뚱해지다.",
    "example": "잘 움직이지는 않고 매일 누워서 먹기만 하니 몸이 나는 게 당연하지.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "몸(이) 달다",
@@ -14342,7 +14407,8 @@
    "word": "몸을 더럽히다",
    "mean": "여자가 정조를 빼앗기다.",
    "example": "여자는 자신의 몸을 더럽히게 된다면 그 자리에서 혀를 깨물고 죽겠다고 말했다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "몸을 던지다",
@@ -14362,7 +14428,8 @@
    "word": "몸을 버리다",
    "mean": "1. 건강을 해치다. 2. 순결을 빼앗기다.",
    "example": "공부를 열심히 하는 것도 좋지만 밤까지 새워가면서 하면 몸을 버릴 수 있으니 쉬어 가면서 해.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "몸을 섞다",
@@ -15241,7 +15308,8 @@
    "word": "밤톨만 한 녀석[놈]",
    "mean": "나이가 어리거나 몸집이 작은 사람.",
    "example": "집안 어른들은 막내 동생을 밤톨만 한 녀석이라며 귀여워하셨다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "밥 구경(을) 하다",
@@ -15398,7 +15466,8 @@
    "word": "배가 맞다",
    "mean": "1. (속된 말로) 부정한 관계의 남녀가 남모르게 서로 성관계를 하다. 2. (속된 말로) 떳떳하지 못한 일을 하는 데에 서로 뜻이 통하다.",
    "example": "그는 술집 여자와 배가 맞아 본처를 버리고 그녀와 멀리 도망갔다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "배가 부르다",
@@ -15801,7 +15870,8 @@
    "word": "부정(을) 보다",
    "mean": "꺼리거나 피하는 몸으로 깨끗하지 못한 일을 하다.",
    "example": "임신한 몸으로 부정을 보았으니 이를 어째.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "부정(을) 타다",
@@ -16188,7 +16258,8 @@
    "word": "뿌리(가) 없다",
    "mean": "근본이 좋지 않다.",
    "example": "내 아들을 뿌리가 없는 가문의 자식과 결혼시킬 수는 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "뿌리(를) 내리다",
@@ -16576,13 +16647,15 @@
    "word": "선이 가늘다",
    "mean": "생김새가 여성스럽고 섬세하다.",
    "example": "새로 온 여선생은 선이 가늘어서 몹시 가녀리고 연약해 보였다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "선이 굵다",
    "mean": "생김새가 남성스럽고 뚜렷하다.",
    "example": "민준이는 선이 굵은 얼굴이어서 미남이라는 칭찬을 자주 듣는다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "선수(를) 걸다",
@@ -17280,13 +17353,15 @@
    "word": "송장(을) 치다",
    "mean": "(속된 말로) 장사를 지내다.",
    "example": "할머니는 집에서 송장 치는 것이 자식들에게 미안하다며 병원에서 장례를 지내 달라고 부탁하셨다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "솥뚜껑 운전수",
    "mean": "(속된 말로) 가정주부.",
    "example": "우리 집 솥뚜껑 운전수는 삼십 년 운전 경력으로 베테랑 주부이다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "쇼크(를) 먹다",
@@ -17426,7 +17501,8 @@
    "word": "숨을 끊다",
    "mean": "스스로 죽거나 무엇을 죽이다.",
    "example": "사냥꾼은 활에 맞아 쓰러져 있는 사슴을 칼로 찔러 숨을 끊어 놓았다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "숨을 넘기다",
@@ -17505,7 +17581,8 @@
    "word": "숨통이 끊어지다",
    "mean": "(속된 말로) 죽다.",
    "example": "적군의 무차별 폭격에 우리 병사들은 모두 숨통이 끊어졌다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "숫기(가) 좋다",
@@ -17702,7 +17779,8 @@
    "word": "아가리(를) 벌리다",
    "mean": "1. (속된 말로) 소리를 내면서 울다. 2. (속된 말로) 말을 함부로 하다.",
    "example": "할아버지는 욕지거리를 하는 젊은이에게 어디서 아가리를 벌리느냐며 화를 내셨다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "아귀(가) 맞다",
@@ -17769,7 +17847,8 @@
   {
    "word": "아비 없는 후레자식",
    "mean": "(욕하는 말로) 아버지 없이 자라 버릇없는 사람.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "아쉬운 대로",
@@ -18519,7 +18598,8 @@
   {
    "word": "염병을 떨다",
    "mean": "엉뚱하거나 욕먹을 만한 행동을 하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "염치(를) 차리다",
@@ -18823,7 +18903,8 @@
    "word": "웃음을 팔다",
    "mean": "돈을 벌기 위해 이성을 상대로 술집에서 일을 하다.",
    "example": "술집에서 웃음을 팔고 술을 따르는 그녀를 무시해서는 안 된다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "웬 떡이냐",
@@ -19013,7 +19094,8 @@
    "word": "이마에 피도 안 마르다",
    "mean": "아직 나이가 어리다.",
    "example": "이마에 피도 안 마른 녀석이 벌써부터 술을 마셔?",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "이목이 넓다",
@@ -19031,7 +19113,8 @@
    "word": "이빨이 갈리다",
    "mean": "(낮잡아 이르는 말로) 매우 분하고 화가 나서 독한 마음이 생기다.",
    "example": "남자는 오디션에서 떨어진 것에 이빨이 갈리는지 고함을 지르며 난동을 부렸다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "이빨이 세다",
@@ -19080,7 +19163,8 @@
    "word": "인두겁(을) 쓰다[뒤집어쓰다]",
    "mean": "실제로 드러난 행동이나 태도 등이 사람답지 못하다.",
    "example": "인두겁을 썼다면 사람으로서 그렇게 심한 짓을 할 수는 없다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "인사를 붙이다",
@@ -19840,7 +19924,8 @@
    "word": "젖내(가) 나다",
    "mean": "어떤 행동이나 기색 등이 성숙하지 못하고 어린아이 같아 보이다.",
    "example": "승규는 몸만 컸지 하는 행동을 보면 아직도 젖내가 난다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "젖비린내가 나다",
@@ -19909,7 +19994,8 @@
   {
    "word": "주둥이가 가볍다[싸다]",
    "mean": "(속된 말로) 비밀을 남에게 잘 옮기다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "주둥이를 놀리다",
@@ -19920,12 +20006,14 @@
   {
    "word": "주둥이만 살다",
    "mean": "(낮잡아 이르는 말로) 말만 그럴듯하다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "주리(를) 틀다",
    "mean": "주리의 벌을 주다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "주머니 사정이 나쁘다",
@@ -20279,7 +20367,8 @@
   {
    "word": "지도를 그리다",
    "mean": "자다가 이불에 오줌을 싸다.",
-   "source": "krdict"
+   "source": "krdict",
+   "blocked": true
   },
   {
    "word": "지레 채다",

@@ -125,8 +125,8 @@ def main():
 
     picks = []
     for key, label, emoji, n in DAILY:
-        # 누구나 아는 것(easy)은 올리지 않는다. 세 갈래 모두 난이도를 검토했다.
-        pool = [x for x in data[key] if not x.get("easy")]
+        # 누구나 아는 것(easy)과 직장 채널에 부적절한 것(blocked)은 올리지 않는다.
+        pool = [x for x in data[key] if not x.get("easy") and not x.get("blocked")]
         for item in pick(pool, key, today, n):
             picks.append((label, emoji, item))
 

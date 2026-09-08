@@ -87,6 +87,19 @@ def main():
                 n += 1
         print(f'  {key:12} 쉬움 표시 {n}개 → 봇이 쓰는 것 {len(data[key]) - n}개')
 
+    # 직장 채널에 자동으로 올리기 부적절한 것(욕설·비하·성적 표현)을 막는다.
+    # 표제어는 멀쩡한데 뜻풀이가 문제인 경우가 많아 뜻풀이까지 보고 판정했다.
+    bl_path = os.path.join(root, 'data', 'blocked.json')
+    if os.path.exists(bl_path):
+        blocked = set(json.load(open(bl_path, encoding='utf-8')))
+        n = 0
+        for key in ('sajaseongeo', 'sokdam', 'gwanyonggu'):
+            for x in data[key]:
+                if x['word'] in blocked:
+                    x['blocked'] = True
+                    n += 1
+        print(f'  부적절 차단 {n}개')
+
     json.dump(data, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
 
